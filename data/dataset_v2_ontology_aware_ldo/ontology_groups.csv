@@ -1,0 +1,869 @@
+split,group,canonical_branch,canonical_branch_label,diseases,num_diseases,positive_triples,mapped_diseases
+test,test_0001,MONDO:0003274,thoracic cancer,adenocarcinoma of lung|adenocarcinoma of the lung|breast adenocarcinoma|breast cancer|breast carcinoma|bronchioloalveolar carcinoma|cancer of breast|ductal carcinoma in situ|er+ breast cancer|estrogen receptor negative breast cancer|estrogen receptor positive breast cancer|estrogen receptor- negative breast cancer|estrogen receptor-negative breast cancer|estrogen receptor-positive breast cancer|female breast carcinoma|her2 positive breast cancer|her2 positive breast carcinoma|inflammatory breast cancer|invasive breast cancer|invasive breast carcinoma|invasive ductal breast carcinoma|invasive lobular breast carcinoma|large cell lung cancer|large cell lung carcinoma|luminal b|lung adenocarcinoma|lung cancer|male breast cancer|malignant neoplasm of breast|malignant neoplasm of thorax|malignant pleural mesothelioma|malignant tumor of breast|mediastinal lymphoma|mucinous breast cancer|non small cell lung carcinoma|non-small cell lung cancer|non-small cell lung carcinoma|non-small-cell lung carcinoma|nsclc|primary mediastinal large b cell lymphoma|progesterone receptor- negative breast cancer|progesterone receptor-negative breast cancer|progesterone receptor-positive breast cancer|triple-negative breast cancer|triple-negative breast carcinoma|tubular breast cancer,46,2007,46
+test,test_0002,MONDO:0001657,brain cancer,"adult pineoblastoma|brain cancer|brain glioma|brain neoplasms, malignant|brain stem glioma|brainstem glioma|central neurocytoma|childhood infratentorial ependymoma|chordoid glioma of third ventricle|choroid plexus carcinoma|diffuse intrinsic pontine glioma|dipg|giant cell glioblastoma|gliomatosis cerebri|gliosarcoma|malignant brain tumor|malignant glioma of brain|pediatric brainstem glioma|pineoblastoma",19,203,19
+test,test_0003,UNMAPPED:diffuse large b cell lymphoma,unmapped,diffuse large b cell lymphoma,1,154,0
+test,test_0004,UNMAPPED:mantle cell lymphoma,unmapped,mantle cell lymphoma,1,135,0
+test,test_0005,MONDO:0005354,chronic hepatitis C virus infection,"chronic hepatitis c|chronic hepatitis c virus infection|hepatitis c, chronic",3,121,3
+test,test_0006,MONDO:0017342,Epstein-Barr virus-related tumor,"burkitt lymphoma|burkitt lymphoma/leukemia|burkitt's lymphoma|extranodal nk/t-cell lymphoma, nasal type|nasal type extranodal nk/t-cell lymphoma|plasmablastic lymphoma",6,101,6
+test,test_0007,UNMAPPED:crohn disease,unmapped,crohn disease,1,78,0
+test,test_0008,"UNMAPPED:diffuse, large b-cell, lymphoma",unmapped,"diffuse, large b-cell, lymphoma",1,67,0
+test,test_0009,MONDO:0005876,Nidovirales infectious disease,2019 novel coronavirus infection|2019-ncov infection|coronavirus disease 2019|covid 19|covid-19,5,64,5
+test,test_0010,MONDO:0003060,biliary tract cancer,biliary tract cancer,1,56,1
+test,test_0011,MONDO:0005556,lupus nephritis,lupus nephritis,1,52,1
+test,test_0012,MONDO:0008608,Down syndrome,down syndrome,1,45,1
+test,test_0013,UNMAPPED:retinoblastoma,unmapped,retinoblastoma,1,41,0
+test,test_0014,MONDO:0002492,acute kidney injury,"acute kidney injury|kidney failure, acute",2,38,2
+test,test_0015,MONDO:0024327,chronic renal failure syndrome,"kidney failure, chronic",1,36,1
+test,test_0016,MONDO:0005136,malaria,malaria,1,33,1
+test,test_0017,MONDO:0001627,dementia,dementia,1,31,1
+test,test_0018,MONDO:0017287,immunoglobulin G4-related sclerosing disease,igg4 related disease|igg4-rd|igg4-related disease,3,31,3
+test,test_0019,MONDO:0005487,schizoaffective disorder,schizoaffective disorder,1,29,1
+test,test_0020,MONDO:0005301,multiple sclerosis,multiple sclerosis,1,27,1
+test,test_0021,UNMAPPED:myocardial infarction,unmapped,myocardial infarction,1,25,0
+test,test_0022,MONDO:0005113,bacterial infectious disease,"bacterial infection|infection, bacterial",2,22,2
+test,test_0023,MONDO:0005001,chronic gastritis,chronic gastritis,1,21,1
+test,test_0024,MONDO:0005040,germ cell tumor,germ cell tumor,1,20,1
+test,test_0025,MONDO:0016904,partial deletion of the long arm of chromosome 5,myelodysplastic syndrome with isolated del(5q),1,20,1
+test,test_0026,MONDO:0005170,myeloid neoplasm,myeloid malignancy|myeloid neoplasm,2,19,2
+test,test_0027,UNMAPPED:atopic dermatitis,unmapped,atopic dermatitis,1,19,0
+test,test_0028,MONDO:0006130,central nervous system neoplasm,central nervous system tumor|cns neoplasm|cns tumor,3,18,3
+test,test_0029,MONDO:0015517,common variable immunodeficiency,common variable immunodeficiency,1,17,1
+test,test_0030,MONDO:0002280,anemia,anemia,1,16,1
+test,test_0031,UNMAPPED:hemophagocytic lymphohistiocytosis,unmapped,hemophagocytic lymphohistiocytosis,1,15,0
+test,test_0032,MONDO:0005530,opiate dependence,heroin dependence|opiate dependence|opioid dependence,3,14,3
+test,test_0033,UNMAPPED:amyotrophic lateral sclerosis,unmapped,amyotrophic lateral sclerosis,1,14,0
+test,test_0034,MONDO:0019148,Wolman disease,wolman disease|wolman's disease,2,13,2
+test,test_0035,MONDO:0000831,thrombotic disease,thrombosis,1,12,1
+test,test_0036,MONDO:0004946,hypoglycemia,hypoglycemia,1,11,1
+test,test_0037,UNMAPPED:shwachman-diamond syndrome,unmapped,shwachman-diamond syndrome,1,11,0
+test,test_0038,MONDO:0005570,hematologic disorder,hematologic and lymphocytic disorder|hematological disease,2,10,2
+test,test_0039,MONDO:0005462,primitive neuroectodermal tumor,neuroectodermal tumor|primitive neuroectodermal tumor|primitive neuroectodermal tumor (pnet),3,10,3
+test,test_0040,MONDO:0009254,fucosidosis,fucosidosis,1,10,1
+test,test_0041,UNMAPPED:metachromatic leukodystrophy,unmapped,metachromatic leukodystrophy,1,10,0
+test,test_0042,MONDO:0002659,uveal cancer,intraocular melanoma|iris melanoma|uveal melanoma,3,10,3
+test,test_0043,MONDO:0003890,infiltrating bladder urothelial carcinoma,"infiltrating bladder urothelial carcinoma sarcomatoid variant|infiltrating bladder urothelial carcinoma, clear cell variant|infiltrating bladder urothelial carcinoma, micropapillary variant|infiltrating bladder urothelial carcinoma, nested variant|infiltrating bladder urothelial carcinoma, plasmacytoid variant",5,10,5
+test,test_0044,UNMAPPED:cataract,unmapped,cataract,1,9,0
+test,test_0045,MONDO:0016642,meningioma,anaplastic meningioma|meningioma,2,9,2
+test,test_0046,MONDO:0006624,overactive bladder,overactive bladder,1,8,1
+test,test_0047,MONDO:0044919,malignant renal pelvis neoplasm,malignant tumor of renal pelvis|renal pelvis cancer,2,7,2
+test,test_0048,MONDO:0005477,ventricular tachycardia,ventricular tachycardia,1,7,1
+test,test_0049,MONDO:0021353,tumor of uterus,uterine neoplasms,1,7,1
+test,test_0050,MONDO:0004456,cocaine abuse,cocaine abuse,1,7,1
+test,test_0051,MONDO:0024664,"hypertension, pregnancy-induced","hypertension, pregnancy induced|hypertension, pregnancy-induced",2,6,2
+test,test_0052,MONDO:0005275,lung disorder,lung disease|pulmonary disease,2,6,2
+test,test_0053,MONDO:0005866,Mycobacterium avium complex disease,mycobacterium avium complex,1,6,1
+test,test_0054,MONDO:0015492,anti-neutrophil cytoplasmic antibody-associated vasculitis,anca-associated vasculitis|anti-neutrophil cytoplasmic antibody-associated vasculitis,2,6,2
+test,test_0055,MONDO:0001402,vaginal cancer,vaginal cancer,1,6,1
+test,test_0056,UNMAPPED:uveitis,unmapped,uveitis,1,5,0
+test,test_0057,UNMAPPED:hyper igm syndrome,unmapped,hyper igm syndrome,1,5,0
+test,test_0058,MONDO:0005475,migraine with aura,migraine with aura,1,5,1
+test,test_0059,MONDO:0005048,pancreatic insulin-producing neuroendocrine tumor,insulinoma|pancreatic insulinoma,2,5,2
+test,test_0060,MONDO:0005433,alcohol withdrawal,alcohol withdrawal|alcohol withdrawal syndrome,2,4,2
+test,test_0061,MONDO:0021085,gastric neoplasm,gastric tumor|neoplasm of stomach|stomach neoplasm,3,4,3
+test,test_0062,MONDO:0015074,thyroid tumor,thyroid neoplasm|thyroid tumor,2,4,2
+test,test_0063,MONDO:0005709,common cold,common cold,1,4,1
+test,test_0064,"UNMAPPED:niemann-pick disease, type c",unmapped,"niemann-pick disease, type c",1,3,0
+test,test_0065,MONDO:0009387,familial lipoprotein lipase deficiency,familial lipoprotein lipase deficiency,1,3,1
+test,test_0066,MONDO:0000922,pelvic inflammatory disease,pelvic inflammatory disease,1,3,1
+test,test_0067,MONDO:0007187,nevoid basal cell carcinoma syndrome,basal cell nevus syndrome,1,3,1
+test,test_0068,MONDO:0019167,immunoglobulin A vasculitis,iga vasculitis,1,3,1
+test,test_0069,MONDO:0010602,hemophilia A,hemophilia a,1,3,1
+test,test_0070,UNMAPPED:familial adenomatous polyposis,unmapped,familial adenomatous polyposis,1,3,0
+test,test_0071,MONDO:0005629,Acanthamoeba keratitis,acanthamoeba keratitis,1,3,1
+test,test_0072,MONDO:0021193,neuroepithelial neoplasm,neuroepithelial tumor,1,3,1
+test,test_0073,UNMAPPED:peritoneal neoplasm,unmapped,peritoneal neoplasm,1,3,0
+test,test_0074,MONDO:0004670,lupus erythematosus,lupus,1,3,1
+test,test_0075,MONDO:0000705,Clostridium difficile colitis,clostridium difficile infection,1,3,1
+test,test_0076,MONDO:0010584,"dyskeratosis congenita, X-linked",hoyeraal hreidarsson syndrome,1,3,1
+test,test_0077,MONDO:0019735,polymyalgia rheumatica,polymyalgia rheumatica,1,2,1
+test,test_0078,MONDO:0005267,heart disorder,cardiac disease,1,2,1
+test,test_0079,MONDO:0043361,May-Thurner syndrome,iliac vein compression syndrome|may-thurner syndrome,2,2,2
+test,test_0080,MONDO:0018362,persistent idiopathic facial pain,atypical facial pain,1,2,1
+test,test_0081,UNMAPPED:myopia,unmapped,myopia,1,2,0
+test,test_0082,MONDO:0001583,diabetic polyneuropathy,diabetic polyneuropathy,1,2,1
+test,test_0083,MONDO:0015236,aortic arch defects,takayasu arteritis,1,2,1
+test,test_0084,MONDO:0002586,thymus cancer,thymus cancer,1,2,1
+test,test_0085,MONDO:0011918,anxiety,anxiety,1,2,1
+test,test_0086,MONDO:0011479,postural orthostatic tachycardia syndrome,postural orthostatic tachycardia syndrome,1,2,1
+test,test_0087,UNMAPPED:beta-thalassemia,unmapped,beta-thalassemia,1,2,0
+test,test_0088,MONDO:0008219,pemphigus vulgaris,pemphigus vulgaris,1,2,1
+test,test_0089,MONDO:0001039,tonsillitis,tonsillitis,1,2,1
+test,test_0090,MONDO:0011662,pathological gambling,pathological gambling,1,2,1
+test,test_0091,UNMAPPED:pterygium,unmapped,pterygium,1,1,0
+test,test_0092,MONDO:0044875,coronary microvascular disorder,coronary microvascular disease,1,1,1
+test,test_0093,MONDO:0004471,bacterial arthritis,septic arthritis,1,1,1
+test,test_0094,MONDO:0004994,cardiomyopathy,cardiomyopathy,1,1,1
+test,test_0095,MONDO:0020678,sensorineural hearing loss disorder,sensorineural hearing loss,1,1,1
+test,test_0096,MONDO:0005124,leprosy,leprosy,1,1,1
+test,test_0097,MONDO:0015545,macrophage activation syndrome,macrophage activation syndrome,1,1,1
+test,test_0098,MONDO:0001531,blood coagulation disease,coagulopathy,1,1,1
+test,test_0099,MONDO:0002155,cholecystitis,cholecystitis,1,1,1
+test,test_0100,MONDO:0005814,intestinal cancer,intestinal cancer,1,1,1
+test,test_0101,MONDO:0019060,bone neoplasm,bone tumor,1,1,1
+test,test_0102,MONDO:0007488,Lewy body dementia,dementia with lewy bodies,1,1,1
+test,test_0103,UNMAPPED:kaposi sarcoma,unmapped,kaposi sarcoma,1,1,0
+test,test_0104,MONDO:0005052,irritable bowel syndrome,irritable bowel syndrome,1,1,1
+test,test_0105,MONDO:0000308,primary systemic mycosis,blastomycosis,1,1,1
+test,test_0106,MONDO:0004600,monocytic leukemia,adult acute monocytic leukemia,1,1,1
+test,test_0107,MONDO:0021138,bone marrow cancer,bone marrow cancer,1,1,1
+test,test_0108,MONDO:0005515,oral cavity cancer,oral cavity cancer,1,1,1
+test,test_0109,MONDO:0009410,unmapped,addison disease,1,1,1
+test,test_0110,UNMAPPED:brain injury,unmapped,brain injury,1,1,0
+test,test_0111,MONDO:0001572,leiomyoma,fibroid,1,1,1
+test,test_0112,MONDO:0006873,nutritional deficiency disease,malnutrition,1,1,1
+test,test_0113,MONDO:0002775,anovulation,anovulation,1,1,1
+test,test_0114,MONDO:0005920,Plasmodium falciparum malaria,plasmodium falciparum malaria,1,1,1
+test,test_0115,MONDO:0005394,brain infarction,brain infarction,1,1,1
+test,test_0116,UNMAPPED:conjunctivitis,unmapped,conjunctivitis,1,1,0
+test,test_0117,UNMAPPED:hypogonadotropic hypogonadism,unmapped,hypogonadotropic hypogonadism,1,1,0
+test,test_0118,MONDO:0005648,aortic valve insufficiency,aortic valve insufficiency,1,1,1
+test,test_0119,MONDO:0005564,embryonal neoplasm,embryonal tumor,1,1,1
+test,test_0120,MONDO:0000827,salmonellosis,typhoid fever,1,1,1
+test,test_0121,MONDO:0000565,infective endocarditis,infective endocarditis,1,1,1
+test,test_0122,MONDO:0016735,papillary glioneuronal tumor,papillary glioneuronal tumor,1,1,1
+test,test_0123,MONDO:0004496,myocarditis,myocarditis,1,1,1
+test,test_0124,MONDO:0025419,"furunculosis, fish",furunculosis,1,1,1
+test,test_0125,MONDO:0019168,pyomyositis,pyomyositis,1,1,1
+test,test_0126,UNMAPPED:cryoglobulinemia,unmapped,cryoglobulinemia,1,1,0
+valid,valid_0001,MONDO:0004993,carcinoma,"acinar cell adenocarcinoma of the pancreas|adenocarcinoma|adenocarcinoma of the esophagogastric junction|adenocarcinoma of the esophagus|adenocarcinoma of the gastroesophageal junction|adenocarcinoma of the oesophagus|adenocarcinoma of the pancreas|adenocarcinoma of the prostate|adenocarcinoma of the stomach|adenocarcinomas|adenoid cystic carcinoma|adult hepatocellular carcinoma|anaplastic thyroid cancer|basal cell carcinoma|cancer of gallbladder|cancer of the gallbladder|cancer of the pharynx|cancer, hepatocellular|carcinoma|carcinoma in situ|carcinoma of gallbladder|carcinoma of larynx|carcinoma of the head and neck|carcinoma, large cell|childhood renal cell carcinoma|chromophobe renal cell carcinoma|clear cell adenocarcinoma|clear cell renal carcinoma|clear cell renal cell carcinoma|collecting duct renal cell carcinoma|colorectal adenocarcinoma|colorectal carcinoma|crc|differentiated thyroid cancer|differentiated thyroid gland carcinoma|diffuse adenocarcinoma of the stomach|endometrial endometrioid adenocarcinoma|endometrioid adenocarcinoma|esophageal adenocarcinoma|esophageal carcinoma|esophagogastric junction adenocarcinoma|esophagus carcinoma|follicular thyroid cancer|gall bladder carcinoma|gallbladder adenocarcinoma|gallbladder carcinoma|gastric adenocarcinoma|gastric carcinoma|gastroesophageal junction adenocarcinoma|hcc|head and neck carcinoma|hepatoblastoma|hepatocellular cancer|hormone-resistant prostate cancer|intestinal adenocarcinoma of the stomach|invasive carcinoma|islet cell carcinoma|large-cell neuroendocrine carcinoma|larynx carcinoma|liver cell carcinoma|medullary thyroid cancer|medullary thyroid carcinoma|merkel cell carcinoma|metastatic prostate cancer|metastatic prostate carcinoma|mucinous adenocarcinoma|multiple endocrine neoplasia type 2a|multiple endocrine neoplasia type 2b|nasopharyngeal carcinoma|neuroendocrine cancer|neuroendocrine carcinoma|neuroendocrine carcinoma of the skin|oesophageal adenocarcinoma|oral cancer|pancreas adenocarcinoma|pancreatic acinar cell carcinoma|pancreatic adenocarcinoma|pancreatic ductal adenocarcinoma|pancreatic ductal carcinoma|pancreatic neuroendocrine carcinoma|papillary renal cell carcinoma|papillary thyroid cancer|poorly differentiated thyroid gland carcinoma|prostate adenocarcinoma|prostate cancer metastatic|prostate carcinoma|renal cell cancer|renal cell carcinoma|renal cell carcinoma with sarcomatoid features|renal clear cell carcinoma|renal medullary carcinoma|sarcomatoid renal cell carcinoma|sinonasal carcinoma|skin basal cell carcinoma|stomach adenocarcinoma|thymic carcinoma|thyroid carcinoma|thyroid gland medullary carcinoma|transitional cell cancer of the renal pelvis and ureter|transitional cell carcinoma|translocation renal cell carcinoma|undifferentiated carcinoma|undifferentiated gastric carcinoma|urethral cancer|urothelial carcinoma|urothelial carcinoma of the renal pelvis and ureter",106,1446,106
+valid,valid_0002,MONDO:0006316,neuroblastic tumor,neuroblastoma,1,187,1
+valid,valid_0003,UNMAPPED:non-hodgkin lymphoma,unmapped,non-hodgkin lymphoma,1,124,0
+valid,valid_0004,MONDO:0024880,metastatic malignant neoplasm,metastatic cancer|metastatic malignant neoplasm,2,96,2
+valid,valid_0005,MONDO:0002367,kidney cancer,cancer of kidney|kidney cancer,2,69,2
+valid,valid_0006,MONDO:0005550,infectious disease,infection|infectious|infectious disorder,3,58,3
+valid,valid_0007,MONDO:0005083,psoriasis,psoriasis,1,54,1
+valid,valid_0008,MONDO:0005002,chronic obstructive pulmonary disease,chronic obstructive pulmonary disease|chronic obstructive pulmonary disease (copd)|copd,3,42,3
+valid,valid_0009,MONDO:0005399,venous thromboembolism,venous thromboembolism,1,39,1
+valid,valid_0010,MONDO:0002083,Richter transformation,richter syndrome|richter's syndrome|richter's transformation,3,36,3
+valid,valid_0011,MONDO:0005029,essential thrombocythemia,essential thrombocythemia,1,32,1
+valid,valid_0012,MONDO:0013282,alpha 1-antitrypsin deficiency,aat deficiency|alpha-1 antitrypsin deficiency,2,30,2
+valid,valid_0013,MONDO:0005303,drug dependence,drug dependence,1,27,1
+valid,valid_0014,MONDO:0005231,hepatitis C virus infection,hepatitis c infection|hepatitis c virus infection,2,23,2
+valid,valid_0015,MONDO:0002108,thyroid cancer,thyroid cancer|thyroid gland cancer,2,21,2
+valid,valid_0016,MONDO:0011469,unmapped,congenital amegakaryocytic thrombocytopenia,1,20,1
+valid,valid_0017,MONDO:0005527,toxic encephalopathy,neurotoxicity|neurotoxicity syndrome,2,19,2
+valid,valid_0018,UNMAPPED:wilms tumor,unmapped,wilms tumor,1,18,0
+valid,valid_0019,MONDO:0011282,tumor suppressor gene on chromosome 11,nonsmall cell lung cancer,1,17,1
+valid,valid_0020,MONDO:0002048,thrombocytopenia due to immune destruction,immune thrombocytopenia,1,16,1
+valid,valid_0021,MONDO:0002352,larynx cancer,cancer of larynx|larynx cancer,2,14,2
+valid,valid_0022,MONDO:0005362,erectile dysfunction,erectile dysfunction|male erectile disorder,2,13,2
+valid,valid_0023,MONDO:0021637,low grade glioma,angiocentric glioma|low grade glioma|low-grade glioma,3,12,3
+valid,valid_0024,MONDO:0005279,pulmonary embolism,pulmonary embolism,1,11,1
+valid,valid_0025,MONDO:0005044,hypertensive disorder,high blood pressure,1,10,1
+valid,valid_0026,UNMAPPED:diffuse large b-cell-lymphoma,unmapped,diffuse large b-cell-lymphoma,1,10,0
+valid,valid_0027,UNMAPPED:immunodeficiency,unmapped,immunodeficiency,1,10,0
+valid,valid_0028,MONDO:0006889,paraphimosis,paraphimosis,1,10,1
+valid,valid_0029,MONDO:0006875,ocular hypertension,ocular hypertension,1,9,1
+valid,valid_0030,MONDO:0005786,Hepadnaviridae infectious disease,hepatitis b,1,8,1
+valid,valid_0031,MONDO:0001324,unmapped,hyperandrogenism,1,7,1
+valid,valid_0032,MONDO:0000521,salivary gland carcinoma,salivary gland squamous cell carcinoma,1,7,1
+valid,valid_0033,MONDO:0017276,frontotemporal dementia,frontotemporal dementia,1,7,1
+valid,valid_0034,UNMAPPED:bone marrow failure syndrome,unmapped,bone marrow failure syndrome,1,6,0
+valid,valid_0035,MONDO:0005338,open-angle glaucoma,"glaucoma, primary open angle|open-angle glaucoma",2,6,2
+valid,valid_0036,MONDO:0016733,ganglioglioma,anaplastic ganglioglioma|ganglioglioma,2,6,2
+valid,valid_0037,UNMAPPED:macular degeneration,unmapped,macular degeneration,1,5,0
+valid,valid_0038,UNMAPPED:griscelli syndrome,unmapped,griscelli syndrome,1,5,0
+valid,valid_0039,UNMAPPED:pulmonary hypertension,unmapped,pulmonary hypertension,1,5,0
+valid,valid_0040,MONDO:0021118,intestinal neoplasm,intestinal neoplasms,1,4,1
+valid,valid_0041,MONDO:0001505,alcoholic hepatitis,alcoholic hepatitis,1,4,1
+valid,valid_0042,MONDO:0023206,functional pancreatic neuroendocrine tumor,functional pancreatic neuroendocrine tumor,1,3,1
+valid,valid_0043,MONDO:0042981,aortic valve stenosis,aortic valve stenosis,1,3,1
+valid,valid_0044,UNMAPPED:primary biliary cholangitis,unmapped,primary biliary cholangitis,1,3,0
+valid,valid_0045,MONDO:0005546,fibromyalgia,fibromyalgia|fibromyalgia syndrome,2,3,2
+valid,valid_0046,MONDO:0007540,multiple endocrine neoplasia type 1,multiple endocrine neoplasia type 1,1,3,1
+valid,valid_0047,MONDO:0005068,myocardial infarction,heart attack,1,3,1
+valid,valid_0048,MONDO:0005315,bone fracture,fracture,1,3,1
+valid,valid_0049,MONDO:0019610,Zollinger-Ellison syndrome,zollinger ellison syndrome,1,3,1
+valid,valid_0050,MONDO:0016717,choroid plexus neoplasm,atypical choroid plexus papilloma,1,3,1
+valid,valid_0051,MONDO:0007947,Marfan syndrome,marfan syndrome,1,2,1
+valid,valid_0052,UNMAPPED:epithelioid sarcoma,unmapped,epithelioid sarcoma,1,2,0
+valid,valid_0053,MONDO:0000514,bone squamous cell carcinoma,paranasal sinus squamous cell carcinoma|squamous cell carcinoma of the paranasal sinus,2,2,2
+valid,valid_0054,MONDO:0043519,burn,burn,1,2,1
+valid,valid_0055,MONDO:0002125,unmapped,status epilepticus,1,2,1
+valid,valid_0056,UNMAPPED:eosinophilic esophagitis,unmapped,eosinophilic esophagitis,1,2,0
+valid,valid_0057,MONDO:0010837,primary hyperparathyroidism,primary hyperparathyroidism,1,2,1
+valid,valid_0058,MONDO:0005395,movement disorder,movement disorders,1,2,1
+valid,valid_0059,MONDO:0017762,disorder of copper metabolism,wilson disease|wilson's disease,2,2,2
+valid,valid_0060,MONDO:0020312,unmapped,atypical chronic myeloid leukemia,1,2,1
+valid,valid_0061,MONDO:0021678,gram-negative bacterial infections,gram-negative bacterial infections,1,1,1
+valid,valid_0062,UNMAPPED:dermatomyositis,unmapped,dermatomyositis,1,1,0
+valid,valid_0063,MONDO:0000082,pelvic organ prolapse,pelvic organ prolapse,1,1,1
+valid,valid_0064,UNMAPPED:endophthalmitis,unmapped,endophthalmitis,1,1,0
+valid,valid_0065,UNMAPPED:cholangitis,unmapped,cholangitis,1,1,0
+valid,valid_0066,MONDO:0013662,Barrett esophagus,barrett's esophagus,1,1,1
+valid,valid_0067,MONDO:0011429,juvenile idiopathic arthritis,juvenile rheumatoid arthritis,1,1,1
+valid,valid_0068,UNMAPPED:lichen planus,unmapped,lichen planus,1,1,0
+valid,valid_0069,MONDO:0016037,superficial Fibromatosis,dupuytren contracture,1,1,1
+valid,valid_0070,MONDO:0006670,bacterial meningitis,bacterial meningitis,1,1,1
+valid,valid_0071,MONDO:0001356,iron deficiency anemia,iron deficiency anemia,1,1,1
+valid,valid_0072,MONDO:0005046,immune system disorder,immune system disorder,1,1,1
+valid,valid_0073,MONDO:0001358,bronchial disorder,bronchospasm,1,1,1
+valid,valid_0074,UNMAPPED:rhinitis,unmapped,rhinitis,1,1,0
+valid,valid_0075,MONDO:0005385,vascular disorder,vascular disease,1,1,1
+valid,valid_0076,MONDO:0024503,digestive system neuroendocrine neoplasm,gastro-enteropancreatic neuroendocrine tumor,1,1,1
+valid,valid_0077,UNMAPPED:orthostatic hypotension,unmapped,orthostatic hypotension,1,1,0
+valid,valid_0078,MONDO:0016727,extraventricular neurocytoma,extraventricular neurocytoma,1,1,1
+valid,valid_0079,MONDO:0009909,progesterone resistance,progesterone resistance,1,1,1
+valid,valid_0080,MONDO:0043771,radiodermatitis,radiodermatitis,1,1,1
+valid,valid_0081,MONDO:0004900,peripheral vertigo,peripheral vertigo.,1,1,1
+valid,valid_0082,MONDO:0004648,vascular dementia,vascular dementia,1,1,1
+valid,valid_0083,MONDO:0005465,methamphetamine-induced psychosis,methamphetamine-induced psychosis,1,1,1
+train,train_0001,MONDO:0018908,non-Hodgkin lymphoma,"alk- alcl|alk-negative anaplastic large cell lymphoma|alk-positive anaplastic large cell lymphoma|anaplastic large cell lymphoma|anaplastic large cell lymphoma, alk-negative|anaplastic large-cell lymphoma|angioimmunoblastic t cell lymphoma|angioimmunoblastic t-cell lymphoma|b-cell lymphoma|b-cell non-hodgkin lymphoma|b-cell non-hodgkin's lymphoma|blastic plasmacytoid dendritic cell neoplasm|eatl|enteropathy associated t cell lymphoma|enteropathy-associated t-cell lymphoma|hepatosplenic t cell lymphoma|hepatosplenic t-cell lymphoma|lymphoma, non-hodgkin|mature t-cell and nk-cell non-hodgkin lymphoma|nhl|non-hodgkin's lymphoma|non-hodgkin's lymphoma (nhl)|non-hodgkins lymphoma|peripheral t-cell lymphoma|ptcl|t cell lymphoma|t-cell lymphoma|t-cell non-hodgkin lymphoma",28,1209,28
+train,train_0002,MONDO:0004643,myeloid leukemia,"acute bilineal leukemia|acute erythroid leukemia|acute granulocytic leukemia|acute leukemia of ambiguous lineage|acute megakaryoblastic leukemia|acute myelocytic leukemia|acute myelogenous leukemia|acute myeloid leukemia|acute myeloid leukemia (aml)|acute undifferentiated leukemia|aml|atypical chronic myeloid leukemia, bcr-abl1 negative|bcr-abl positive chronic myelogenous leukemia|blast crisis|blast phase chronic myelogenous leukemia, bcr-abl1 positive|blastic phase chronic myelogenous leukemia|blastic phase chronic myeloid leukemia|chronic myelogenous leukemia (cml)|chronic myelogenous leukemia, bcr-abl1 positive|chronic myeloid leukemia|leukemia, myelocytic, acute|leukemia, myeloid, accelerated-phase|mixed lineage acute leukemia|mixed phenotype acute leukemia|myelogenous leukemia|myeloid leukemia, acute|myeloid sarcoma|secondary acute myeloid leukemia",28,940,28
+train,train_0003,MONDO:0003538,precursor lymphoblastic lymphoma/leukemia,"acute biphenotypic leukemia|acute lymphoblastic leukemia (all)|acute lymphoblastic leukemia/lymphoma|acute lymphocytic leukemia|acute lymphoid leukemia|b-cell acute lymphoblastic leukemia|b-cell adult acute lymphoblastic leukemia|b-cell childhood acute lymphoblastic leukemia|childhood acute lymphoblastic leukemia|leukemia, acute lymphoblastic|lymphoblastic leukemia, acute|lymphoblastic lymphoma|pediatric all|plasma cell leukemia|t acute lymphoblastic leukemia|t-cell acute lymphoblastic leukemia|t-cell childhood acute lymphoblastic leukemia|t-lymphoblastic lymphoma",18,710,18
+train,train_0004,MONDO:0001014,chronic leukemia,aggressive nk-cell leukemia|b-cell chronic lymphocytic leukemia|chronic eosinophilic leukemia|chronic leukemia|chronic lymphocytic leukemia|chronic lymphocytic leukemia (cll)|chronic lymphocytic leukemia/small lymphocytic lymphoma|chronic myelomonocytic leukemia|chronic myelomonocytic leukemia (cmml)|chronic neutrophilic leukemia|cll|cll/sll|cmml|hairy cell leukemia|jmml|juvenile myelomonocytic leukemia|nk-cell leukemia|prolymphocytic leukemia|refractory hairy cell leukemia|t-cell large granular lymphocyte leukemia,20,646,20
+train,train_0005,MONDO:0005062,lymphoma,"lymphoma|lymphoma (hodgkin's and non-hodgkin's)|lymphoma, malignant|malignant lymphoma",4,636,4
+train,train_0006,MONDO:0017594,indolent B-cell non-Hodgkin lymphoma,extranodal marginal zone b-cell lymphoma of mucosa-associated lymphoid tissue|extranodal marginal zone lymphoma of mucosa-associated lymphoid tissue|follicular lymphoma|indolent b-cell non-hodgkin lymphoma|lymphoma of mucosa-associated lymphoid tissue|malt lymphoma|marginal zone b cell lymphoma|marginal zone b-cell lymphoma|marginal zone lymphoma|nodal marginal zone b-cell lymphoma|nodal marginal zone lymphoma|splenic marginal zone lymphoma|waldenstrom macroglobulinemia|waldenstrom's macroglobulinemia|waldenström macroglobulinemia,15,568,15
+train,train_0007,MONDO:0005059,leukemia,leukemia|leukemias,2,504,2
+train,train_0008,MONDO:0018881,myelodysplastic syndrome,mds|myelodysplasia|myelodysplastic syndrome|myelodysplastic syndromes|preleukemia,5,472,5
+train,train_0009,MONDO:0005089,sarcoma,alveolar soft part sarcoma|angiosarcoma|bone sarcoma|childhood botryoid-type embryonal rhabdomyosarcoma|childhood pleomorphic rhabdomyosarcoma|chondrosarcoma|classic kaposi sarcoma|clear cell sarcoma|desmoplastic small round cell tumor|ewing sarcoma|ewing's sarcoma|fibrosarcoma|myxofibrosarcoma|ovarian sarcoma|retroperitoneal sarcoma|rhabdomyosarcoma|sarcoma|soft tissue sarcoma|soft-tissue sarcoma|synovial sarcoma,20,382,20
+train,train_0010,MONDO:0002532,squamous cell neoplasm,adenosquamous carcinoma|adenosquamous lung carcinoma|basaloid squamous cell carcinoma|bladder squamous cell carcinoma|cervical adenosquamous carcinoma|cervical adenosquamous cell carcinoma|cervical squamous cell carcinoma|early invasive cervical squamous cell carcinoma|esophageal squamous cell cancer|esophageal squamous cell carcinoma|esophageal undifferentiated carcinoma|gastric squamous cell carcinoma|head and neck squamous cell carcinoma|hnscc|hpv-related squamous cell carcinoma|hypopharynx squamous cell carcinoma|larynx squamous cell carcinoma|lung squamous cell carcinoma|metastatic squamous cell carcinoma|nasopharyngeal squamous cell carcinoma|oral cavity squamous cell carcinoma|oropharyngeal squamous cell carcinoma|oropharynx squamous cell carcinoma|papillary craniopharyngioma|squamous cell cancer|squamous cell carcinoma of head and neck|squamous cell carcinoma of oropharynx|squamous cell carcinoma of the cervix|squamous cell carcinoma of the esophagus|squamous cell carcinoma of the head and neck|squamous cell carcinoma of the larynx|squamous cell carcinoma of the oral cavity|squamous cell lung cancer|squamous cell lung carcinoma|squamous cell neoplasm|thyroid gland squamous cell carcinoma,36,380,36
+train,train_0011,UNMAPPED:schizophrenia,unmapped,schizophrenia,1,370,0
+train,train_0012,MONDO:0004952,Hodgkins lymphoma,classical hodgkin lymphoma|hodgkin disease|hodgkin lymphoma|hodgkin's disease|hodgkin's lymphoma,5,358,5
+train,train_0013,MONDO:0005148,type 2 diabetes mellitus,"diabetes mellitus, type 2|diabetes mellitus, type ii|diabetes, type 2|type 2 diabetes|type 2 diabetes mellitus|type ii diabetes|type ii diabetes mellitus|type-2 diabetes mellitus",8,344,8
+train,train_0014,UNMAPPED:acute lymphoblastic leukemia,unmapped,acute lymphoblastic leukemia,1,319,0
+train,train_0015,MONDO:0008315,prostate cancer,prostate cancer,1,308,1
+train,train_0016,MONDO:0020665,high grade malignant neoplasm,"adult glioblastoma|adult oligodendroglioma|anaplastic glioma|gbm|glioblastoma|glioblastoma multiforme|glioma, malignant|grade iv astrocytoma|high grade glioma|high-grade glioma|malignant glioma|oligodendroglioma",12,275,12
+train,train_0017,MONDO:0001056,gastric cancer,gastric cancer|malignant neoplasm of stomach|stomach cancer,3,274,3
+train,train_0018,MONDO:0004992,cancer,cancer|malignancy|malignant neoplasm|malignant neoplastic disease,4,249,4
+train,train_0019,MONDO:0005627,head and neck cancer,cancer of head and neck|cancer of nasopharynx|cancer of neck|cancer of the head and neck|cancer of the neck|extraocular extension melanoma|head & neck cancer|head and neck cancer|hypopharyngeal cancer|hypopharynx cancer|lip cancer|malignant head and neck neoplasm|neck cancer|ocular melanoma|oropharyngeal cancer|oropharynx cancer|pharynx cancer|salivary gland cancer|tongue cancer,19,232,19
+train,train_0020,MONDO:0005575,colorectal cancer,colorectal cancer,1,229,1
+train,train_0021,MONDO:0009831,malignant pancreatic neoplasm,cancer of pancreas|pancreas cancer|pancreatic cancer,3,226,3
+train,train_0022,UNMAPPED:melanoma,unmapped,melanoma,1,222,0
+train,train_0023,MONDO:0008170,ovarian cancer,ovarian cancer|ovary cancer,2,215,2
+train,train_0024,UNMAPPED:graft versus host disease,unmapped,graft versus host disease,1,200,0
+train,train_0025,MONDO:0002715,uterine cancer,adenocarcinoma of endometrium|carcinosarcoma of uterus|cervical adenocarcinoma|cervical cancer|cervical carcinoma|cervix carcinoma|endometrial adenocarcinoma|endometrial cancer|endometrial carcinoma|endometrial clear cell adenocarcinoma|endometrial serous adenocarcinoma|endometrial undifferentiated carcinoma|malignant uterine neoplasm|uterine cancer|uterine carcinosarcoma,15,196,15
+train,train_0026,UNMAPPED:diffuse large b-cell lymphoma,unmapped,diffuse large b-cell lymphoma,1,195,0
+train,train_0027,MONDO:0004959,plasma cell neoplasm,extramedullary plasmacytoma|isolated plasmacytoma of bone|kahler disease|light chain deposition disease|myelomatosis|non-secretory plasma cell myeloma|plasma cell dyscrasia|plasma cell myeloma|plasma cell neoplasm|plasma-cell myeloma|plasmacytoma|smoldering multiple myeloma|smoldering myeloma|smoldering plasma cell myeloma|smouldering myeloma|solitary osseous plasmacytoma,16,194,16
+train,train_0028,MONDO:0018076,tuberculosis,"drug-resistant tuberculosis|ltbi|mdr-tb|pulmonary tuberculosis|tuberculosis|tuberculosis, spinal",6,168,6
+train,train_0029,MONDO:0002165,rectal neoplasm,adenocarcinoma of the rectum|anal basaloid carcinoma|anal canal cloacogenic carcinoma|anal canal squamous cell carcinoma|anal margin squamous cell carcinoma|anal squamous cell carcinoma|cancer of rectum|carcinoma of anal canal|carcinoma of the anal canal|mucinous adenocarcinoma of the rectum|rectal adenocarcinoma|rectal cancer|rectal carcinoma|rectal neoplasm|rectal squamous cell carcinoma|rectum cancer|rectum carcinoma|signet ring adenocarcinoma of the rectum|squamous cell anal carcinoma|squamous cell carcinoma of the anal canal|squamous cell carcinoma of the anus,21,162,21
+train,train_0030,MONDO:0000402,small cell carcinoma,prostate small cell neuroendocrine carcinoma|small cell carcinoma|small cell lung cancer|small cell lung carcinoma,4,151,4
+train,train_0031,MONDO:0008383,rheumatoid arthritis,rheumatoid arthritis,1,151,1
+train,train_0032,MONDO:0007576,esophageal cancer,cancer of esophagus|esophageal cancer|esophagus cancer|malignant neoplasm of esophagus,4,151,4
+train,train_0033,MONDO:0011382,sickle cell disease,sickle cell anemia|sickle cell disease,2,144,2
+train,train_0034,MONDO:0002229,ovarian epithelial tumor,carcinosarcoma of ovary|epithelial ovarian cancer|malignant ovarian mixed epithelial tumor|ovarian adenocarcinoma|ovarian brenner tumor|ovarian carcinoma|ovarian carcinosarcoma|ovarian clear cell adenocarcinoma|ovarian clear cell cystadenocarcinoma|ovarian endometrioid adenocarcinoma|ovarian epithelial cancer|ovarian epithelial tumor|ovarian mixed epithelial carcinoma|ovarian mucinous cystadenocarcinoma|ovarian seromucinous carcinoma|ovarian serous adenocarcinoma|ovarian serous cystadenocarcinoma|ovarian serous surface papillary adenocarcinoma|ovarian stromal cancer|undifferentiated ovarian carcinoma,20,140,20
+train,train_0035,UNMAPPED:mantle-cell lymphoma,unmapped,mantle-cell lymphoma,1,133,0
+train,train_0036,MONDO:0002087,peritoneum cancer,advanced peritoneal malignant mesothelioma|malignant peritoneal mesothelioma|peritoneal cancer|peritoneal carcinoma|peritoneal cavity cancer|peritoneum cancer|primary peritoneal cancer|primary peritoneal carcinoma|primary peritoneal serous adenocarcinoma,9,131,9
+train,train_0037,MONDO:0002158,fallopian tube cancer,fallopian tube adenocarcinoma|fallopian tube cancer|fallopian tube carcinoma|fallopian tube carcinosarcoma|fallopian tube clear cell adenocarcinoma|fallopian tube endometrioid adenocarcinoma|fallopian tube serous adenocarcinoma,7,126,7
+train,train_0038,MONDO:0013730,graft versus host disease,graft vs host disease|graft vs. host disease|graft-versus-host disease|graft-versus-host-disease|graft-vs-host disease|gvhd,6,123,6
+train,train_0039,MONDO:0017595,aggressive B-cell non-Hodgkin lymphoma,dlbcl|high-grade b-cell lymphoma|intravascular large b-cell lymphoma|relapsed/refractory diffuse large b-cell lymphoma,4,122,4
+train,train_0040,MONDO:0003059,bile duct cancer,bile duct cancer|cholangiocarcinoma|cholangiocellular carcinoma|extrahepatic bile duct cancer|hilar cholangiocarcinoma|intrahepatic cholangiocarcinoma,6,119,6
+train,train_0041,UNMAPPED:hepatocellular carcinoma,unmapped,hepatocellular carcinoma,1,116,0
+train,train_0042,UNMAPPED:hypertension,unmapped,hypertension,1,115,0
+train,train_0043,MONDO:0010643,acute leukemia,acute leukemia,1,109,1
+train,train_0044,MONDO:0006311,myelodysplastic/myeloproliferative neoplasm,myelodysplastic/myeloproliferative neoplasm|myelodysplastic/myeloproliferative neoplasms,2,106,2
+train,train_0045,MONDO:0002050,depressive disorder,depression|depressive disorder,2,99,2
+train,train_0046,UNMAPPED:non hodgkin lymphoma,unmapped,non hodgkin lymphoma,1,93,0
+train,train_0047,UNMAPPED:major depressive disorder,unmapped,major depressive disorder,1,88,0
+train,train_0048,MONDO:0005010,coronary artery disorder,coronary artery disease|coronary disease|coronary heart disease,3,87,3
+train,train_0049,MONDO:0002691,liver cancer,cancer of liver|hepatic cancer|liver cancer,3,83,3
+train,train_0050,MONDO:0006517,childhood malignant neoplasm,childhood cancer|childhood oligodendroglioma|pediatric cancer,3,80,3
+train,train_0051,MONDO:0004981,atrial fibrillation,atrial fibrillation,1,77,1
+train,train_0052,UNMAPPED:medulloblastoma,unmapped,medulloblastoma,1,75,0
+train,train_0053,MONDO:0005015,diabetes mellitus,diabetes|diabetes mellitus,2,71,2
+train,train_0054,MONDO:0005240,kidney disorder,kidney disease|renal disease,2,70,2
+train,train_0055,MONDO:0044881,hematopoietic and lymphoid cell neoplasm,hematologic malignancy|hematopoietic and lymphoid cell neoplasm,2,68,2
+train,train_0056,MONDO:0015909,aplastic anemia,aplastic anemia,1,67,1
+train,train_0057,MONDO:0005191,metastatic melanoma,metastatic malignant melanoma|metastatic melanoma,2,65,2
+train,train_0058,MONDO:0005065,mesothelioma,"epithelial mesothelioma|malignant mesothelioma|mesothelioma|mesothelioma, malignant|peritoneal mesothelioma|pleural mesothelioma",6,65,6
+train,train_0059,MONDO:0005401,colonic neoplasm,cancer of colon|colon cancer,2,65,2
+train,train_0060,MONDO:0005016,diabetic kidney disease,diabetic kidney disease|diabetic nephropathy,2,65,2
+train,train_0061,MONDO:0004034,eye lymphoma,intraocular lymphoma|primary intraocular lymphoma,2,61,2
+train,train_0062,MONDO:0005411,gallbladder cancer,gall bladder cancer|gallbladder cancer,2,58,2
+train,train_0063,UNMAPPED:osteosarcoma,unmapped,osteosarcoma,1,58,0
+train,train_0064,UNMAPPED:alcohol-related disorders,unmapped,alcohol-related disorders,1,57,0
+train,train_0065,MONDO:0021117,lung neoplasm,lung neoplasm|lung neoplasms,2,57,2
+train,train_0066,MONDO:0005027,epilepsy,epilepsy,1,56,1
+train,train_0067,MONDO:0044903,myelofibrosis,myelofibrosis,1,55,1
+train,train_0068,UNMAPPED:squamous cell carcinoma,unmapped,squamous cell carcinoma,1,55,0
+train,train_0069,MONDO:0017207,primary organ-specific lymphoma,central nervous system lymphoma|pcnsl|primary central nervous system lymphoma|primary central nervous system non-hodgkin lymphoma|primary cns lymphoma,5,55,5
+train,train_0070,MONDO:0019454,myelodysplastic syndrome with excess blasts,myelodysplastic syndrome with excess blasts|refractory anemia with excess blasts,2,54,2
+train,train_0071,MONDO:0001472,testicular lymphoma,primary testicular lymphoma|testicular lymphoma,2,53,2
+train,train_0072,MONDO:0005011,Crohn disease,crohn's disease,1,50,1
+train,train_0073,MONDO:0021100,breast neoplasm,"breast neoplasm|breast tumor|neoplasm, breast",3,49,3
+train,train_0074,MONDO:0020076,myeloproliferative neoplasm,chronic myeloproliferative disease|myeloproliferative disorder|myeloproliferative neoplasm,3,49,3
+train,train_0075,MONDO:0001852,small intestine lymphoma,small intestine lymphoma,1,49,1
+train,train_0076,MONDO:0009692,primary myelofibrosis,idiopathic myelofibrosis|primary myelofibrosis,2,46,2
+train,train_0077,UNMAPPED:thrombocytopenia,unmapped,thrombocytopenia,1,45,0
+train,train_0078,MONDO:0019088,post-transplant lymphoproliferative disease,post-transplant lymphoproliferative disease|post-transplant lymphoproliferative disorder,2,45,2
+train,train_0079,MONDO:0007915,systemic lupus erythematosus,"lupus erythematosus, systemic|systemic lupus erythematosus",2,41,2
+train,train_0080,MONDO:0002009,major depressive disorder,major depression,1,41,1
+train,train_0081,MONDO:0001106,kidney failure,kidney failure|renal failure,2,41,2
+train,train_0082,MONDO:0005045,hypertrophic cardiomyopathy,al amyloidosis|light-chain amyloidosis|primary systemic amyloidosis,3,41,3
+train,train_0083,MONDO:0019255,sphingolipidosis,fabry disease|fabry's disease|gangliosidosis|globoid cell leukodystrophy|krabbe disease|tay sachs disease|tay-sachs disease,7,41,7
+train,train_0084,MONDO:0021074,precancerous condition,precancerous condition,1,40,1
+train,train_0085,UNMAPPED:t-cell leukemia,unmapped,t-cell leukemia,1,39,0
+train,train_0086,MONDO:0020703,erythroid neoplasm,polycythemia vera,1,39,1
+train,train_0087,MONDO:0022034,lentivirus infection,aids|hiv infection,2,38,2
+train,train_0088,UNMAPPED:glaucoma,unmapped,glaucoma,1,38,0
+train,train_0089,MONDO:0002268,dyspepsia,dyspepsia,1,38,1
+train,train_0090,MONDO:0005366,chronic hepatitis B virus infection,"chronic hepatitis b|hepatitis b, chronic",2,37,2
+train,train_0091,MONDO:0005300,chronic kidney disease,"chronic kidney disease|chronic renal disease|kidney disease, chronic",3,36,3
+train,train_0092,MONDO:0019391,Fanconi anemia,fanconi anemia,1,36,1
+train,train_0093,MONDO:0021211,brain neoplasm,brain neoplasms|brain tumor,2,36,2
+train,train_0094,UNMAPPED:multidrug resistant tuberculosis,unmapped,multidrug resistant tuberculosis,1,35,0
+train,train_0095,MONDO:0015758,primary cutaneous T-cell lymphoma,lymphomatoid papulosis|subcutaneous panniculitis like t cell lymphoma|subcutaneous panniculitis-like t-cell lymphoma,3,35,3
+train,train_0096,MONDO:0021636,astrocytic tumor,astrocytoma|diffuse astrocytoma|pilocytic astrocytoma|pilomyxoid astrocytoma|pleomorphic xanthoastrocytoma,5,34,5
+train,train_0097,MONDO:0005101,ulcerative colitis,ulcerative colitis|ulcerative colitis (disorder),2,34,2
+train,train_0098,MONDO:0005070,neoplasm,neoplasm|tumor,2,33,2
+train,train_0099,MONDO:0004247,peptic ulcer disease,peptic ulcer|peptic ulcer disease,2,32,2
+train,train_0100,MONDO:0005272,myelodysplastic syndrome with single lineage dysplasia,refractory anemia,1,32,1
+train,train_0101,MONDO:0005542,acute coronary syndrome,acute coronary syndrome,1,32,1
+train,train_0102,MONDO:0004979,asthma,asthma,1,32,1
+train,train_0103,MONDO:0000837,bone resorption disease,"osteoporosis|osteoporosis, postmenopausal|postmenopausal osteoporosis",3,31,3
+train,train_0104,MONDO:0015157,human herpesvirus 8-related tumor,multicentric castleman disease|primary effusion lymphoma,2,31,2
+train,train_0105,MONDO:0045057,delirium,delirium,1,31,1
+train,train_0106,MONDO:0020633,anaplastic cancer,anaplastic astrocytoma|anaplastic oligodendroglioma,2,31,2
+train,train_0107,MONDO:0006541,epidermolysis bullosa,epidermolysis bullosa,1,31,1
+train,train_0108,MONDO:0002032,colon carcinoma,adenocarcinoma of the colon|colon adenocarcinoma|colon carcinoma|mucinous adenocarcinoma of the colon|rectosigmoid cancer,5,31,5
+train,train_0109,MONDO:0002728,rhabdoid tumor,malignant rhabdoid tumor|rhabdoid tumor|rhabdoid tumor of the kidney,3,30,3
+train,train_0110,MONDO:1060199,hemorrhagic stroke,intracerebral hemorrhage|subarachnoid hemorrhage,2,30,2
+train,train_0111,MONDO:0000607,primary cutaneous T-cell non-Hodgkin lymphoma,ctcl|cutaneous t cell lymphoma|cutaneous t-cell lymphoma|cutaneous t-cell non-hodgkin lymphoma|mycosis fungoides|primary cutaneous anaplastic large cell lymphoma|sezary syndrome,7,30,7
+train,train_0112,MONDO:0005105,melanoma,malignant melanoma,1,29,1
+train,train_0113,MONDO:0005314,relapsing-remitting multiple sclerosis,relapsing remitting multiple sclerosis|relapsing-remitting multiple sclerosis,2,29,2
+train,train_0114,MONDO:0021163,kidney neoplasm,kidney tumor|renal neoplasm|renal tumors,3,29,3
+train,train_0115,MONDO:0004995,cardiovascular disorder,cardiovascular disease|cardiovascular disorder,2,29,2
+train,train_0116,UNMAPPED:fibrolamellar hepatocellular carcinoma,unmapped,fibrolamellar hepatocellular carcinoma,1,28,0
+train,train_0117,MONDO:0021042,glioma,glioma,1,28,1
+train,train_0118,MONDO:0005311,atherosclerosis,atherosclerosis|coronary atherosclerosis,2,27,2
+train,train_0119,MONDO:0000432,lymphoplasmacytic lymphoma,lymphoplasmacytic lymphoma,1,27,1
+train,train_0120,UNMAPPED:type 1 diabetes mellitus,unmapped,type 1 diabetes mellitus,1,26,0
+train,train_0121,MONDO:0019157,myelodysplastic syndrome with ring sideroblasts,myelodysplastic syndrome with ring sideroblasts|refractory anemia with ring sideroblasts|refractory anemia with ringed sideroblasts,3,25,3
+train,train_0122,MONDO:0005100,systemic sclerosis,"scleroderma, systemic|systemic scleroderma|systemic sclerosis",3,25,3
+train,train_0123,UNMAPPED:bipolar disorder,unmapped,bipolar disorder,1,24,0
+train,train_0124,MONDO:0018201,extragonadal germ cell tumor,extragonadal germ cell tumor,1,24,1
+train,train_0125,MONDO:0015692,refractory anemia with excess blasts in transformation,refractory anemia with excess blasts in transformation,1,24,1
+train,train_0126,MONDO:0004987,urinary bladder neoplasm,bladder tumor|urinary bladder neoplasm|urinary bladder neoplasms,3,23,3
+train,train_0127,MONDO:0005310,atrial flutter,atrial flutter,1,23,1
+train,train_0128,UNMAPPED:testicular germ cell tumor,unmapped,testicular germ cell tumor,1,23,0
+train,train_0129,UNMAPPED:gastritis,unmapped,gastritis,1,22,0
+train,train_0130,MONDO:0005416,"osteoarthritis, knee","osteoarthritis, knee",1,21,1
+train,train_0131,UNMAPPED:thalassemia,unmapped,thalassemia,1,21,0
+train,train_0132,MONDO:0000956,small intestine cancer,small intestine cancer,1,21,1
+train,train_0133,MONDO:0004975,Alzheimer disease,alzheimer's dementia|alzheimer's disease,2,21,2
+train,train_0134,MONDO:0004095,B-cell neoplasm,b-cell neoplasm,1,21,1
+train,train_0135,MONDO:0019453,myelodysplastic syndrome with multilineage dysplasia,refractory cytopenia with multilineage dysplasia,1,21,1
+train,train_0136,MONDO:0002026,candidiasis,"candidemia|candidiasis|candidiasis, invasive|invasive candidiases|invasive candidiasis",5,21,5
+train,train_0137,MONDO:0005393,gout,gout,1,21,1
+train,train_0138,MONDO:0005284,chronic progressive multiple sclerosis,primary progressive multiple sclerosis|secondary progressive multiple sclerosis,2,20,2
+train,train_0139,UNMAPPED:severe congenital neutropenia,unmapped,severe congenital neutropenia,1,20,0
+train,train_0140,MONDO:0002657,breast disorder,breast diseases,1,20,1
+train,train_0141,MONDO:0004964,"peripheral T-cell lymphoma, not otherwise specified","peripheral t-cell lymphoma, not otherwise specified",1,20,1
+train,train_0142,MONDO:0005149,pulmonary hypertension,pulmonary arterial hypertension,1,20,1
+train,train_0143,MONDO:0005066,metabolic disease,metabolic disease,1,20,1
+train,train_0144,MONDO:0005147,type 1 diabetes mellitus,type 1 diabetes,1,20,1
+train,train_0145,MONDO:0001134,essential hypertension,essential hypertension|primary hypertension,2,20,2
+train,train_0146,UNMAPPED:diamond-blackfan anemia,unmapped,diamond-blackfan anemia,1,19,0
+train,train_0147,MONDO:0019065,amyloidosis,amyloid|amyloidosis,2,19,2
+train,train_0148,MONDO:0015041,myelodysplastic syndrome with excess blasts-2,myelodysplastic syndrome with excess blasts-2,1,19,1
+train,train_0149,MONDO:0009061,cystic fibrosis,cystic fibrosis,1,19,1
+train,train_0150,UNMAPPED:langerhans cell histiocytosis,unmapped,langerhans cell histiocytosis,1,19,0
+train,train_0151,MONDO:0003266,ependymal tumor,anaplastic ependymoma|ependymal tumor|ependymoma,3,19,3
+train,train_0152,MONDO:0021178,injury,trauma,1,19,1
+train,train_0153,MONDO:0004955,unmapped,metabolic syndrome,1,19,1
+train,train_0154,MONDO:0011849,psoriatic arthritis,psoriatic arthritis,1,18,1
+train,train_0155,MONDO:0005186,cocaine dependence,cocaine addiction|cocaine dependence,2,18,2
+train,train_0156,MONDO:0005794,Herpesviridae infectious disease,cytomegalovirus infection|cytomegalovirus retinitis|herpes zoster|human herpesvirus 8 infection,4,18,4
+train,train_0157,MONDO:0021095,parkinsonian disorder,parkinson's disease,1,18,1
+train,train_0158,MONDO:0001475,neutropenia,chediak-higashi syndrome|neutropenia,2,18,2
+train,train_0159,MONDO:0005335,colorectal neoplasm,colorectal neoplasm|colorectal tumor,2,18,2
+train,train_0160,MONDO:0007079,alcohol dependence,alcohol dependence|alcoholism,2,17,2
+train,train_0161,MONDO:0021656,nongerminomatous germ cell tumor,teratoma,1,17,1
+train,train_0162,MONDO:0015040,myelodysplastic syndrome with excess blasts-1,myelodysplastic syndrome with excess blasts-1,1,17,1
+train,train_0163,MONDO:0021246,pharynx neoplasm,nasopharyngeal neoplasms|oropharyngeal neoplasms,2,17,2
+train,train_0164,MONDO:0018506,mesenchymal tumor of small intestine,gastrointestinal stromal tumor|gastrointestinal stromal tumor (gist)|gastrointestinal stromal tumors|gist,4,16,4
+train,train_0165,MONDO:0005447,testicular cancer,testicular cancer|testicular embryonal carcinoma,2,16,2
+train,train_0166,UNMAPPED:parkinson disease,unmapped,parkinson disease,1,16,0
+train,train_0167,MONDO:0005252,heart failure,cardiac failure|heart failure,2,16,2
+train,train_0168,MONDO:0002724,mast cell neoplasm,mast cell leukemia|mastocytosis,2,16,2
+train,train_0169,MONDO:0015974,severe combined immunodeficiency,scid|severe combined immunodeficiency,2,16,2
+train,train_0170,MONDO:0002129,bone cancer,bone cancer,1,16,1
+train,train_0171,UNMAPPED:hyperlipidemia,unmapped,hyperlipidemia,1,16,0
+train,train_0172,UNMAPPED:ankylosing spondylitis,unmapped,ankylosing spondylitis,1,16,0
+train,train_0173,MONDO:0008491,stiff-person syndrome,stiff-person syndrome,1,15,1
+train,train_0174,MONDO:0018305,chronic granulomatous disease,chronic granulomatous disease,1,15,1
+train,train_0175,MONDO:0024883,metastatic neoplasm,metastatic disease|metastatic neoplasm|metastatic tumor,3,15,3
+train,train_0176,MONDO:0005336,myopathy,myopathy,1,15,1
+train,train_0177,MONDO:0003751,childhood germ cell tumor,childhood germ cell tumor,1,15,1
+train,train_0178,MONDO:0005545,staphylococcus aureus infection,impetigo|staphylococcus aureus infection,2,14,2
+train,train_0179,MONDO:0010518,Wiskott-Aldrich syndrome,wiskott-aldrich syndrome,1,14,1
+train,train_0180,MONDO:0001325,penile cancer,penile cancer|penile carcinoma|squamous cell carcinoma of the penis,3,14,3
+train,train_0181,MONDO:0001126,gastric ulcer,gastric ulcer,1,14,1
+train,train_0182,UNMAPPED:osteoarthritis,unmapped,osteoarthritis,1,14,0
+train,train_0183,MONDO:0008487,polycystic ovary syndrome,pcos|polycystic ovary syndrome,2,14,2
+train,train_0184,MONDO:0009813,chronic recurrent multifocal osteomyelitis,chronic recurrent multifocal osteomyelitis,1,14,1
+train,train_0185,MONDO:0021223,digestive system neoplasm,gastrointestinal tumor,1,13,1
+train,train_0186,MONDO:0002146,hypogonadism,gonadotropin deficiency|hypogonadism,2,13,2
+train,train_0187,MONDO:0002898,skin cancer,skin cancer,1,13,1
+train,train_0188,MONDO:0004986,urinary bladder carcinoma,bladder adenocarcinoma|bladder carcinoma|bladder mixed adenocarcinoma|bladder urothelial carcinoma|urothelial carcinoma of the urinary bladder,5,13,5
+train,train_0189,MONDO:0008171,nephrolithiasis,kidney stone|nephrolithiasis,2,13,2
+train,train_0190,MONDO:0007027,metabolic dysfunction-associated steatohepatitis,nash - nonalcoholic steatohepatitis|non-alcoholic steatohepatitis|nonalcoholic steatohepatitis,3,13,3
+train,train_0191,MONDO:0004728,diabetic macular edema,diabetic macular edema,1,13,1
+train,train_0192,UNMAPPED:myeloid leukemia,unmapped,myeloid leukemia,1,12,0
+train,train_0193,MONDO:0019124,microscopic polyangiitis,microscopic polyangiitis,1,12,1
+train,train_0194,MONDO:0006290,malignant germ cell tumor,dysgerminoma|ovarian embryonal carcinoma|ovarian germ cell cancer|ovarian yolk sac tumor|seminoma|yolk sac tumor,6,12,6
+train,train_0195,UNMAPPED:obsessive-compulsive disorder,unmapped,obsessive-compulsive disorder,1,12,0
+train,train_0196,MONDO:0004842,stomatitis,oral mucositis|stomatitis,2,12,2
+train,train_0197,MONDO:0044873,childhood myelodysplastic syndrome,childhood myelodysplastic syndrome,1,11,1
+train,train_0198,MONDO:0002514,hepatobiliary neoplasm,hepatobiliary neoplasm,1,11,1
+train,train_0199,MONDO:0015780,dyskeratosis congenita,dyskeratosis congenita,1,11,1
+train,train_0200,MONDO:0005154,liver disorder,liver disease,1,11,1
+train,train_0201,MONDO:0002771,pulmonary fibrosis,pulmonary fibrosis,1,11,1
+train,train_0202,UNMAPPED:mucopolysaccharidosis,unmapped,mucopolysaccharidosis,1,11,0
+train,train_0203,MONDO:0005246,osteomyelitis,osteomyelitis,1,11,1
+train,train_0204,MONDO:0012105,granulomatosis with polyangiitis,wegener granulomatosis|wegener's granulomatosis,2,11,2
+train,train_0205,UNMAPPED:paroxysmal nocturnal hemoglobinuria,unmapped,paroxysmal nocturnal hemoglobinuria,1,11,0
+train,train_0206,MONDO:0001416,female reproductive organ cancer,gynecologic cancer|malignant female reproductive system neoplasm,2,10,2
+train,train_0207,MONDO:0006904,phimosis,phimosis,1,10,1
+train,train_0208,MONDO:0009661,mucopolysaccharidosis type 6,maroteaux-lamy syndrome,1,10,1
+train,train_0209,MONDO:0002561,lysosomal storage disease,lysosomal storage disease,1,10,1
+train,train_0210,MONDO:0019053,peroxisomal disease,peroxisomal disorder,1,10,1
+train,train_0211,MONDO:0009650,mucolipidosis type II,i-cell disease,1,10,1
+train,train_0212,MONDO:0006672,balanitis,balanitis,1,10,1
+train,train_0213,MONDO:0100372,disorder of peroxisomal transporter,adrenoleukodystrophy,1,10,1
+train,train_0214,UNMAPPED:myasthenia gravis,unmapped,myasthenia gravis,1,10,0
+train,train_0215,MONDO:0008495,platelet storage pool deficiency,platelet storage pool deficiency,1,10,1
+train,train_0216,UNMAPPED:gm1 gangliosidosis,unmapped,gm1 gangliosidosis,1,10,0
+train,train_0217,MONDO:0002175,degeneration of macula and posterior pole,age-related macular degeneration,1,10,1
+train,train_0218,MONDO:0010674,mucopolysaccharidosis type 2,hunter syndrome,1,10,1
+train,train_0219,MONDO:0005364,Graves disease,graves´ disease,1,10,1
+train,train_0220,MONDO:0010811,benign prostatic hyperplasia,benign prostate hyperplasia|benign prostatic hyperplasia,2,10,2
+train,train_0221,MONDO:0006951,retinal vein occlusion,central retinal vein occlusion|retinal vein occlusion,2,10,2
+train,train_0222,MONDO:0015540,hemophagocytic syndrome,hlh,1,10,1
+train,train_0223,MONDO:0004335,digestive system disorder,digestive system disease,1,10,1
+train,train_0224,MONDO:0018910,oculocutaneous albinism,oculocutaneous albinism,1,10,1
+train,train_0225,UNMAPPED:juvenile idiopathic arthritis,unmapped,juvenile idiopathic arthritis,1,10,0
+train,train_0226,UNMAPPED:alzheimer disease,unmapped,alzheimer disease,1,10,0
+train,train_0227,MONDO:0011758,Hurler syndrome,hurler syndrome,1,10,1
+train,train_0228,MONDO:0005081,preeclampsia,pre-eclampsia|preeclampsia,2,10,2
+train,train_0229,MONDO:0009662,mucopolysaccharidosis type 7,sly syndrome,1,10,1
+train,train_0230,MONDO:0004652,bacterial pneumonia,bacterial pneumonia,1,10,1
+train,train_0231,MONDO:0018975,neurofibromatosis type 1,neurofibromatosis 1|neurofibromatosis type 1,2,10,2
+train,train_0232,MONDO:0008830,aspartylglucosaminuria,aspartylglucosaminuria,1,10,1
+train,train_0233,UNMAPPED:alpha mannosidosis,unmapped,alpha mannosidosis,1,10,0
+train,train_0234,MONDO:0020579,mucositis,mucositis,1,10,1
+train,train_0235,MONDO:0008627,ureter cancer,ureter cancer,1,10,1
+train,train_0236,UNMAPPED:digestive system neoplasm,unmapped,digestive system neoplasm,1,10,0
+train,train_0237,UNMAPPED:sanfilippo syndrome,unmapped,sanfilippo syndrome,1,10,0
+train,train_0238,MONDO:0036501,refractory malignant neoplasm,refractory cancer|refractory malignant neoplasm|resistant cancer,3,9,3
+train,train_0239,UNMAPPED:optic nerve glioma,unmapped,optic nerve glioma,1,9,0
+train,train_0240,MONDO:0019496,neuroendocrine neoplasm,neuroendocrine neoplasm|neuroendocrine tumor,2,9,2
+train,train_0241,MONDO:0041656,ST-elevation myocardial infarction,st elevation myocardial infarction|st-elevation myocardial infarction|stemi,3,9,3
+train,train_0242,MONDO:0004375,end stage renal failure,end stage renal disease,1,9,1
+train,train_0243,MONDO:0005371,mood disorder,mood disorder,1,9,1
+train,train_0244,MONDO:0004781,acute myocardial infarction,acute myocardial infarction,1,9,1
+train,train_0245,MONDO:0005058,leiomyosarcoma,leiomyosarcoma,1,9,1
+train,train_0246,MONDO:0006629,"osteoarthritis, hip","hip osteoarthritis|osteoarthritis, hip",2,8,2
+train,train_0247,UNMAPPED:allergic rhinitis,unmapped,allergic rhinitis,1,8,0
+train,train_0248,MONDO:0003750,childhood central nervous system germ cell tumor,childhood central nervous system choriocarcinoma|childhood central nervous system germ cell tumor|childhood central nervous system mixed germ cell tumor,3,8,3
+train,train_0249,MONDO:0002529,skin squamous cell carcinoma,cutaneous squamous cell carcinoma|skin squamous cell carcinoma|squamous cell carcinoma of the skin,3,8,3
+train,train_0250,MONDO:0003660,adult lymphoma,adult lymphoma|adult nodular lymphocyte predominant hodgkin lymphoma|adult t-cell leukemia/lymphoma,3,8,3
+train,train_0251,MONDO:0005386,peripheral arterial disease,peripheral arterial disease,1,8,1
+train,train_0252,MONDO:0005976,syphilis,yaws,1,8,1
+train,train_0253,MONDO:0005289,paranasal sinus neoplasm,paranasal sinus neoplasms,1,8,1
+train,train_0254,MONDO:0005689,cannabis dependence,cannabis dependence|marijuana dependence,2,8,2
+train,train_0255,MONDO:0005812,influenza,flu|influenza,2,8,2
+train,train_0256,UNMAPPED:hypothyroidism,unmapped,hypothyroidism,1,7,0
+train,train_0257,MONDO:0017855,T-B- severe combined immunodeficiency,adenosine deaminase deficiency|reticular dysgenesis,2,7,2
+train,train_0258,MONDO:0008538,temporal arteritis,giant cell arteritis,1,7,1
+train,train_0259,MONDO:0005095,spondyloarthropathy,spondyloarthritis,1,7,1
+train,train_0260,MONDO:0005342,IgA glomerulonephritis,iga nephropathy,1,7,1
+train,train_0261,UNMAPPED:anxiety disorder,unmapped,anxiety disorder,1,7,0
+train,train_0262,MONDO:0006516,unmapped,sarcopenia,1,7,1
+train,train_0263,MONDO:0005402,lymphoid leukemia,lymphocytic leukemia|lymphoid leukemia,2,7,2
+train,train_0264,MONDO:0000240,invasive aspergillosis,invasive aspergillosis,1,7,1
+train,train_0265,MONDO:0005299,brain ischemia,brain ischemia,1,7,1
+train,train_0266,MONDO:0002251,hepatitis,hepatitis,1,7,1
+train,train_0267,MONDO:0001528,vulva cancer,squamous cell carcinoma of the vulva|vulvar cancer|vulvar squamous cell carcinoma,3,7,3
+train,train_0268,MONDO:0008575,nicotine dependence,nicotine dependence,1,7,1
+train,train_0269,MONDO:0005249,pneumonia,pneumonia,1,7,1
+train,train_0270,MONDO:0004869,pelvic varices,hemorrhoids,1,7,1
+train,train_0271,MONDO:0001153,unmapped,gender dysphoria,1,7,1
+train,train_0272,MONDO:0013600,insomnia,insomnia,1,6,1
+train,train_0273,MONDO:0003198,small intestine adenocarcinoma,small bowel adenocarcinoma|small intestinal adenocarcinoma|small intestine adenocarcinoma,3,6,3
+train,train_0274,MONDO:0002730,childhood kidney neoplasm,childhood renal tumor,1,6,1
+train,train_0275,MONDO:0004355,childhood leukemia,pediatric acute myeloid leukemia,1,6,1
+train,train_0276,MONDO:0009332,congenital hematological disorder,congenital hematological disorder,1,6,1
+train,train_0277,MONDO:0043459,radiation-induced disorder,radiation-induced disorder,1,6,1
+train,train_0278,MONDO:0005244,peripheral neuropathy,neuropathy|peripheral neuropathy,2,6,2
+train,train_0279,MONDO:0100193,chronic liver failure,end stage liver disease,1,6,1
+train,train_0280,MONDO:0037254,transitional cell neoplasm,brenner tumor,1,6,1
+train,train_0281,MONDO:0004978,unmapped,aortic stenosis,1,6,1
+train,train_0282,MONDO:0024644,myocardial ischemia,ischemic heart disease|myocardial ischemia,2,6,2
+train,train_0283,MONDO:0000920,duodenum cancer,ampulla of vater adenocarcinoma|ampulla of vater cancer|periampullary adenocarcinoma,3,6,3
+train,train_0284,MONDO:0015564,Castleman disease,castleman disease|giant lymph node hyperplasia,2,6,2
+train,train_0285,MONDO:0002217,central nervous system sarcoma,atypical teratoid/rhabdoid tumor|malignant peripheral nerve sheath tumor|mpnst,3,6,3
+train,train_0286,MONDO:0005133,endometriosis,endometriosis,1,6,1
+train,train_0287,MONDO:0008345,unmapped,idiopathic pulmonary fibrosis,1,6,1
+train,train_0288,MONDO:0004192,urethra cancer,urethra cancer,1,6,1
+train,train_0289,MONDO:0005009,congestive heart failure,"congestive heart failure|heart failure, congestive",2,6,2
+train,train_0290,UNMAPPED:cervical intraepithelial neoplasia,unmapped,cervical intraepithelial neoplasia,1,6,0
+train,train_0291,UNMAPPED:fragile x syndrome,unmapped,fragile x syndrome,1,6,0
+train,train_0292,MONDO:0004700,parotid gland cancer,parotid gland cancer,1,6,1
+train,train_0293,MONDO:0100128,coinfection,coinfection,1,6,1
+train,train_0294,MONDO:0015264,cryptogenic organizing pneumonia,cryptogenic organizing pneumonia,1,6,1
+train,train_0295,MONDO:0004577,corneal ulcer,corneal ulcer,1,6,1
+train,train_0296,MONDO:0002491,substance abuse,substance abuse,1,6,1
+train,train_0297,UNMAPPED:liposarcoma,unmapped,liposarcoma,1,6,0
+train,train_0298,MONDO:0007186,gastroesophageal reflux disease,gastroesophageal reflux|gastroesophageal reflux disease|gerd,3,6,3
+train,train_0299,MONDO:0006078,AIDS-related primary central nervous system lymphoma,aids-related primary cns lymphoma|aids-related-primary central nervous system lymphoma,2,6,2
+train,train_0300,MONDO:0001866,bipolar I disorder,bipolar 1 disorder|bipolar i disorder,2,6,2
+train,train_0301,UNMAPPED:toxoplasmosis,unmapped,toxoplasmosis,1,6,0
+train,train_0302,MONDO:0000740,adenoid hypertrophy,adenoid hypertrophy,1,6,1
+train,train_0303,UNMAPPED:intestinal obstruction,unmapped,intestinal obstruction,1,5,0
+train,train_0304,MONDO:0002814,adrenal carcinoma,adrenocortical carcinoma|malignant adrenal gland pheochromocytoma,2,5,2
+train,train_0305,MONDO:0005871,Nematoda infectious disease,ascariasis|onchocerciasis|trichuriasis,3,5,3
+train,train_0306,MONDO:0002875,parasitic ectoparasitic infectious disease,scabies,1,5,1
+train,train_0307,MONDO:0021657,ovarian sex cord-stromal tumor,ovarian sex cord stromal tumor|ovarian sex-cord stromal tumor,2,5,2
+train,train_0308,MONDO:0021667,neuralgia,neuralgia,1,5,1
+train,train_0309,MONDO:0006976,somatostatinoma,somatostatin-producing neuroendocrine tumor|somatostatinoma,2,5,2
+train,train_0310,MONDO:0019959,glucagonoma,glucagonoma|pancreatic glucagonoma,2,5,2
+train,train_0311,MONDO:0020082,dendritic cell tumor,childhood langerhans cell histiocytosis,1,5,1
+train,train_0312,MONDO:0002277,arteriosclerosis disorder,arteriosclerosis,1,5,1
+train,train_0313,UNMAPPED:polycystic liver disease,unmapped,polycystic liver disease,1,5,0
+train,train_0314,MONDO:0007743,attention deficit-hyperactivity disorder,attention deficit hyperactivity disorder,1,5,1
+train,train_0315,MONDO:0003268,mixed glioma,mixed glioma|mixed gliomas|mixed oligoastrocytoma,3,5,3
+train,train_0316,MONDO:0001225,opioid abuse,opioid abuse,1,5,1
+train,train_0317,MONDO:0005146,post-traumatic stress disorder,post traumatic stress disorder|ptsd,2,5,2
+train,train_0318,MONDO:0005921,Plasmodium vivax malaria,plasmodium vivax malaria|vivax malaria,2,5,2
+train,train_0319,UNMAPPED:anorexia nervosa,unmapped,anorexia nervosa,1,5,0
+train,train_0320,MONDO:0008599,trigeminal neuralgia,trigeminal neuralgia,1,5,1
+train,train_0321,UNMAPPED:familial hypercholesterolemia,unmapped,familial hypercholesterolemia,1,4,0
+train,train_0322,UNMAPPED:granulomatosis with polyangiitis,unmapped,granulomatosis with polyangiitis,1,4,0
+train,train_0323,MONDO:0008475,spondylolisthesis,spondylolisthesis,1,4,1
+train,train_0324,MONDO:0005388,primary biliary cholangitis,pbc|primary biliary cirrhosis,2,4,2
+train,train_0325,MONDO:0006604,rosacea,acne rosacea|rosacea,2,4,2
+train,train_0326,MONDO:0006920,prediabetes syndrome,prediabetes,1,4,1
+train,train_0327,MONDO:0000745,cardiac arrest,cardiac arrest,1,4,1
+train,train_0328,MONDO:0021068,ovarian neoplasm,ovarian neoplasm,1,4,1
+train,train_0329,MONDO:0005387,primary ovarian failure,ataxia-telangiectasia|turner syndrome,2,4,2
+train,train_0330,UNMAPPED:inflammatory bowel disease,unmapped,inflammatory bowel disease,1,4,0
+train,train_0331,MONDO:0004235,diverticulitis,diverticulitis,1,4,1
+train,train_0332,UNMAPPED:osteogenesis imperfecta,unmapped,osteogenesis imperfecta,1,4,0
+train,train_0333,UNMAPPED:open angle glaucoma,unmapped,open angle glaucoma,1,4,0
+train,train_0334,MONDO:0019954,pancreatic neuroendocrine tumor,islet cell tumor,1,4,1
+train,train_0335,MONDO:0005406,gestational diabetes,gestational diabetes|gestational diabetes mellitus,2,4,2
+train,train_0336,MONDO:0005012,cutaneous melanoma,cutaneous melanoma|skin melanoma,2,4,2
+train,train_0337,MONDO:0005701,chlamydia trachomatis infectious disease,trachoma,1,4,1
+train,train_0338,MONDO:0021058,neoplastic syndrome,neoplastic syndrome,1,4,1
+train,train_0339,UNMAPPED:long qt syndrome,unmapped,long qt syndrome,1,3,0
+train,train_0340,MONDO:0045054,cancer-related condition,oncologic complications,1,3,1
+train,train_0341,MONDO:0005723,Cryptococcal meningitis,cryptococcal meningitis,1,3,1
+train,train_0342,MONDO:0004565,intestinal obstruction,bowel obstruction,1,3,1
+train,train_0343,UNMAPPED:congenital adrenal hyperplasia,unmapped,congenital adrenal hyperplasia,1,3,0
+train,train_0344,MONDO:0043358,engraftment syndrome,engraftment syndrome,1,3,1
+train,train_0345,MONDO:0002334,hematopoietic and lymphoid system neoplasm,hematopoietic and lymphoid system neoplasm,1,3,1
+train,train_0346,MONDO:0007803,multiple system atrophy,multiple system atrophy,1,3,1
+train,train_0347,MONDO:0015531,non-Langerhans cell histiocytosis,niemann-pick disease type b,1,3,1
+train,train_0348,UNMAPPED:periodontitis,unmapped,periodontitis,1,3,0
+train,train_0349,MONDO:0005347,hypertriglyceridemia,hypertriglyceridemia,1,3,1
+train,train_0350,MONDO:0005961,sinusitis,sinusitis,1,3,1
+train,train_0351,MONDO:0041052,postherpetic neuralgia,postherpetic neuralgia,1,3,1
+train,train_0352,MONDO:0005161,human papilloma virus infection,human papilloma virus infection,1,3,1
+train,train_0353,MONDO:0005586,head and neck neoplasm,head and neck neoplasm,1,3,1
+train,train_0354,MONDO:0006475,unmapped,unclassified renal cell carcinoma,1,3,1
+train,train_0355,MONDO:0004980,atopic eczema,eczema,1,3,1
+train,train_0356,MONDO:0001200,secondary hypertension,secondary hypertension,1,3,1
+train,train_0357,MONDO:0005914,Picornaviridae infectious disease,"hand, foot and mouth disease",1,3,1
+train,train_0358,MONDO:0016486,beta-thalassemia major,beta-thalassemia major,1,3,1
+train,train_0359,UNMAPPED:endocarditis,unmapped,endocarditis,1,3,0
+train,train_0360,MONDO:0006748,unmapped,epilepsia partialis continua,1,3,1
+train,train_0361,UNMAPPED:bronchitis,unmapped,bronchitis,1,3,0
+train,train_0362,MONDO:0006960,sciatic neuropathy,sciatica,1,3,1
+train,train_0363,MONDO:0001294,Horner syndrome,horner's syndrome,1,3,1
+train,train_0364,MONDO:0002654,uterine disorder,uterine disease,1,3,1
+train,train_0365,MONDO:0009990,Revesz syndrome,revesz syndrome,1,3,1
+train,train_0366,MONDO:0005207,choriocarcinoma,choriocarcinoma|placental site trophoblastic tumor,2,3,2
+train,train_0367,MONDO:0005791,herpangina,herpangina,1,3,1
+train,train_0368,MONDO:0004664,helminthiasis,helminthiasis,1,3,1
+train,train_0369,MONDO:0009291,glycogen storage disease III,glycogen storage disease type iii,1,3,1
+train,train_0370,MONDO:0002494,substance-related disorder,substance-related disorder,1,3,1
+train,train_0371,MONDO:0005324,seasonal allergic rhinitis,seasonal allergic rhinitis,1,3,1
+train,train_0372,MONDO:0018593,primary polyarteritis nodosa,cutaneous polyarteritis nodosa,1,3,1
+train,train_0373,MONDO:0007122,anisocoria,anisocoria,1,3,1
+train,train_0374,MONDO:0005509,histiocytoma,histiocytoma,1,3,1
+train,train_0375,UNMAPPED:patent ductus arteriosus,unmapped,patent ductus arteriosus,1,3,0
+train,train_0376,MONDO:0018746,mucous membrane pemphigoid,mucous membrane pemphigoid,1,3,1
+train,train_0377,UNMAPPED:beta thalassemia,unmapped,beta thalassemia,1,3,0
+train,train_0378,MONDO:0004334,non-functional pancreatic neuroendocrine tumor,non-functional pancreatic neuroendocrine tumor,1,3,1
+train,train_0379,MONDO:0001661,background diabetic retinopathy,non-proliferative diabetic retinopathy,1,3,1
+train,train_0380,MONDO:0020546,acute graft versus host disease,acute graft versus host disease,1,3,1
+train,train_0381,MONDO:0005313,necrotizing enterocolitis,necrotizing enterocolitis,1,3,1
+train,train_0382,MONDO:0001660,proliferative diabetic retinopathy,proliferative diabetic retinopathy,1,3,1
+train,train_0383,MONDO:0002142,undifferentiated pleomorphic sarcoma,undifferentiated pleomorphic sarcoma,1,3,1
+train,train_0384,MONDO:0001711,hepatic encephalopathy,hepatic encephalopathy,1,3,1
+train,train_0385,MONDO:0005657,aspergillosis,allergic bronchopulmonary aspergillosis|neuroaspergillosis,2,3,2
+train,train_0386,MONDO:0100185,immune reconstitution inflammatory syndrome,immune reconstitution inflammatory syndrome|immune reconstitution syndrome,2,3,2
+train,train_0387,MONDO:0002516,digestive system cancer,malignant digestive system neoplasm,1,3,1
+train,train_0388,MONDO:0022430,persistent fetal circulation syndrome,persistent pulmonary hypertension of the newborn,1,3,1
+train,train_0389,MONDO:0018469,pulmonary non-tuberculous mycobacterial infection,nontuberculous mycobacterial lung disease,1,3,1
+train,train_0390,MONDO:0005853,malignant mixed neoplasm,carcinosarcoma,1,3,1
+train,train_0391,MONDO:0016713,central nervous system Ewing sarcoma/peripheral primitive neuroectodermal tumor,medulloepithelioma,1,3,1
+train,train_0392,MONDO:0011565,metabolic syndrome X,metabolic syndrome x,1,3,1
+train,train_0393,MONDO:0005201,restrictive cardiomyopathy,glycogen storage disease type ii|pompe disease,2,3,2
+train,train_0394,MONDO:0021239,urethra neoplasm,urethral neoplasms,1,3,1
+train,train_0395,MONDO:0054868,meconium ileus,meconium ileus,1,3,1
+train,train_0396,MONDO:0004766,status asthmaticus,status asthmaticus,1,3,1
+train,train_0397,MONDO:0006424,soft tissue neoplasm,desmoid tumor|fibromyxoid tumor|kaposiform hemangioendothelioma,3,3,3
+train,train_0398,MONDO:0005297,urethritis,urethritis,1,3,1
+train,train_0399,MONDO:0021113,respiratory failure,respiratory failure,1,3,1
+train,train_0400,UNMAPPED:thrombotic thrombocytopenic purpura,unmapped,thrombotic thrombocytopenic purpura,1,3,0
+train,train_0401,MONDO:0005139,morbid obesity,morbid obesity,1,3,1
+train,train_0402,MONDO:0019960,VIPoma,vip-producing neuroendocrine tumor,1,3,1
+train,train_0403,MONDO:0011438,acne,acne vulgaris,1,3,1
+train,train_0404,MONDO:0008978,chordoma,chordoma,1,3,1
+train,train_0405,UNMAPPED:cleft palate,unmapped,cleft palate,1,3,0
+train,train_0406,"UNMAPPED:diffuse, large b-cell lymphoma",unmapped,"diffuse, large b-cell lymphoma",1,3,0
+train,train_0407,UNMAPPED:leishmaniasis,unmapped,leishmaniasis,1,2,0
+train,train_0408,MONDO:0000640,central nervous system primitive neuroectodermal neoplasm,adult ependymoblastoma|ganglioneuroma,2,2,2
+train,train_0409,MONDO:0019091,bronchopulmonary dysplasia,bronchopulmonary dysplasia,1,2,1
+train,train_0410,UNMAPPED:autoimmune hepatitis,unmapped,autoimmune hepatitis,1,2,0
+train,train_0411,UNMAPPED:thrombocythemia,unmapped,thrombocythemia,1,2,0
+train,train_0412,MONDO:0001780,premature ejaculation,premature ejaculation,1,2,1
+train,train_0413,MONDO:0011972,ovarian hyperstimulation syndrome,ovarian hyperstimulation syndrome,1,2,1
+train,train_0414,MONDO:0001442,dysthymic disorder,dysthymia|dysthymic disorder,2,2,2
+train,train_0415,MONDO:0005060,liposarcoma,myxoid liposarcoma|myxoid/round cell liposarcoma,2,2,2
+train,train_0416,MONDO:0003865,acral lentiginous melanoma,acral lentiginous melanoma,1,2,1
+train,train_0417,MONDO:0006733,dry eye syndrome,dry eye|dry eye syndrome,2,2,2
+train,train_0418,MONDO:0006026,urinary bladder disorder,urinary bladder disease,1,2,1
+train,train_0419,UNMAPPED:thymoma,unmapped,thymoma,1,2,0
+train,train_0420,MONDO:0007741,congenital hydronephrosis,congenital hydronephrosis,1,2,1
+train,train_0421,MONDO:0007147,obstructive sleep apnea syndrome,obstructive sleep apnea syndrome,1,2,1
+train,train_0422,MONDO:0002999,central nervous system germinoma,childhood central nervous system germinoma,1,2,1
+train,train_0423,MONDO:0015943,eosinophilic granulomatosis with polyangiitis,churg-strauss syndrome,1,2,1
+train,train_0424,MONDO:0003633,malignant mesenchymoma,adult malignant mesenchymoma|childhood malignant mesenchymoma,2,2,2
+train,train_0425,MONDO:0001612,carotid stenosis,carotid artery stenosis,1,2,1
+train,train_0426,MONDO:0006320,non-cutaneous melanoma,mucosal melanoma,1,2,1
+train,train_0427,MONDO:0800064,osteogenesis imperfecta and a reduction of bone mineral density.,osteogenesis imperfecta type iii|osteogenesis imperfecta type iv,2,2,2
+train,train_0428,MONDO:0001821,hypoactive sexual desire disorder,hypoactive sexual desire disorder,1,2,1
+train,train_0429,MONDO:0100081,sleep disorder,sleep disorder,1,2,1
+train,train_0430,UNMAPPED:pancreatitis,unmapped,pancreatitis,1,2,0
+train,train_0431,UNMAPPED:aortic valve disease,unmapped,aortic valve disease,1,2,0
+train,train_0432,MONDO:0020547,chronic graft versus host disease,chronic graft versus host disease,1,2,1
+train,train_0433,MONDO:0018882,vasculitis,vasculitis,1,2,1
+train,train_0434,MONDO:0021204,chronic otitis media,chronic otitis media,1,2,1
+train,train_0435,MONDO:0700285,DMD-related muscular dystrophy,duchenne muscular dystrophy,1,2,1
+train,train_0436,UNMAPPED:endometritis,unmapped,endometritis,1,2,0
+train,train_0437,MONDO:0017713,disorder of fatty acid oxidation and ketogenesis,scad,1,2,1
+train,train_0438,MONDO:0002258,pharyngitis,pharyngitis,1,2,1
+train,train_0439,MONDO:0001529,pancytopenia,pancytopenia,1,2,1
+train,train_0440,MONDO:0003529,acute pyelonephritis,acute pyelonephritis,1,2,1
+train,train_0441,MONDO:0001509,endocrine exophthalmos,thyroid-associated ophthalmopathy,1,2,1
+train,train_0442,MONDO:0002345,cervicitis,cervicitis,1,2,1
+train,train_0443,MONDO:0002118,urinary system disorder,urological diseases,1,2,1
+train,train_0444,MONDO:0002714,central nervous system cancer,cns cancer,1,2,1
+train,train_0445,MONDO:0005392,scoliosis,scoliosis,1,2,1
+train,train_0446,UNMAPPED:glomerulonephritis,unmapped,glomerulonephritis,1,2,0
+train,train_0447,MONDO:0003523,gastrin-producing neuroendocrine tumor,gastrinoma,1,2,1
+train,train_0448,UNMAPPED:infectious disease,unmapped,infectious disease,1,2,0
+train,train_0449,MONDO:0004785,blepharitis,blepharitis,1,2,1
+train,train_0450,MONDO:0002913,cerebellar neoplasm,adult medulloblastoma|cerebellar liponeurocytoma,2,2,2
+train,train_0451,UNMAPPED:spinal muscular atrophy,unmapped,spinal muscular atrophy,1,2,0
+train,train_0452,MONDO:0001236,appendiceal neoplasm,carcinoma of the appendix|pseudomyxoma peritonei,2,2,2
+train,train_0453,MONDO:0012727,Kawasaki disease,kawasaki disease,1,2,1
+train,train_0454,MONDO:0001265,schizophreniform disorder,schizophreniform disorder,1,2,1
+train,train_0455,MONDO:0007888,hereditary leiomyomatosis and renal cell cancer,hereditary leiomyomatosis|hlrcc,2,2,2
+train,train_0456,MONDO:0019957,PPoma,pancreatic polypeptide tumor,1,2,1
+train,train_0457,MONDO:0005445,visceral leishmaniasis,visceral leishmaniasis,1,2,1
+train,train_0458,MONDO:0024276,glandular cell neoplasm,mucinous neoplasm|mucinous tumor,2,2,2
+train,train_0459,MONDO:0018301,interstitial cystitis,bladder pain syndrome|interstitial cystitis,2,2,2
+train,train_0460,MONDO:0024613,bipolar depression,bipolar depression,1,2,1
+train,train_0461,MONDO:0005258,autism spectrum disorder,autism spectrum disorder,1,2,1
+train,train_0462,MONDO:0003658,"B-cell lymphoma, unclassifiable, with features intermediate between diffuse large b-cell lymphoma and classical Hodgkin lymphoma",gray zone lymphoma,1,2,1
+train,train_0463,MONDO:0001339,portal vein thrombosis,portal vein thrombosis,1,2,1
+train,train_0464,MONDO:0002123,calcinosis,calcinosis,1,2,1
+train,train_0465,MONDO:0021355,neoplasm of esophagus,esophageal neoplasm|esophageal tumor,2,2,2
+train,train_0466,MONDO:0024317,chronic pain syndrome,chronic pain syndrome,1,2,1
+train,train_0467,MONDO:0005266,diabetic retinopathy,diabetic retinopathy,1,2,1
+train,train_0468,MONDO:0005369,carcinoid tumor,carcinoid tumor,1,2,1
+train,train_0469,MONDO:0021040,pancreatic neoplasm,pancreatic neoplasm,1,2,1
+train,train_0470,UNMAPPED:urticaria,unmapped,urticaria,1,2,0
+train,train_0471,MONDO:0005412,duodenal ulcer,duodenal ulcer,1,2,1
+train,train_0472,MONDO:0001247,social phobia,social anxiety disorder|social phobia,2,2,2
+train,train_0473,MONDO:0003634,proteinuria,proteinuria,1,2,1
+train,train_0474,UNMAPPED:aspergillosis,unmapped,aspergillosis,1,2,0
+train,train_0475,MONDO:0007739,Huntington disease,huntington disease|huntington's disease,2,2,2
+train,train_0476,MONDO:0005377,nephrotic syndrome,nephrotic syndrome,1,2,1
+train,train_0477,UNMAPPED:extraskeletal myxoid chondrosarcoma,unmapped,extraskeletal myxoid chondrosarcoma,1,1,0
+train,train_0478,MONDO:0006096,atypical endometrial hyperplasia,atypical endometrial hyperplasia,1,1,1
+train,train_0479,MONDO:0019340,scleroderma,scleroderma,1,1,1
+train,train_0480,MONDO:0004891,hyperopia,hyperopia,1,1,1
+train,train_0481,MONDO:0002465,bronchiolitis,bronchiolitis,1,1,1
+train,train_0482,MONDO:0002259,gonadal disorder,gonadal disorders,1,1,1
+train,train_0483,MONDO:1040041,FZD4-related exudative vitreoretinopathy,retinopathy of prematurity,1,1,1
+train,train_0484,MONDO:0001382,hepatorenal syndrome,hepatorenal syndrome,1,1,1
+train,train_0485,MONDO:0002679,cerebral infarction,cerebral infarction,1,1,1
+train,train_0486,MONDO:0006769,gastroparesis,gastroparesis,1,1,1
+train,train_0487,MONDO:0012819,diabetic ketoacidosis,diabetic ketoacidosis,1,1,1
+train,train_0488,MONDO:0001705,pure red-cell aplasia,pure red cell aplasia,1,1,1
+train,train_0489,MONDO:0021057,classic or attenuated familial adenomatous polyposis,adenomatous polyposis coli,1,1,1
+train,train_0490,MONDO:0002531,skin neoplasm,skin neoplasm,1,1,1
+train,train_0491,UNMAPPED:sandhoff disease,unmapped,sandhoff disease,1,1,0
+train,train_0492,UNMAPPED:primary amyloidosis,unmapped,primary amyloidosis,1,1,0
+train,train_0493,MONDO:0021632,primary brain neoplasm,primary brain tumor,1,1,1
+train,train_0494,MONDO:0016226,specific language disorder,dysphasia,1,1,1
+train,train_0495,MONDO:0021108,meningitis,meningitis,1,1,1
+train,train_0496,MONDO:0012809,"histiocytoma, Angiomatoid fibrous",angiomatoid fibrous histiocytoma,1,1,1
+train,train_0497,UNMAPPED:lymphangioleiomyomatosis,unmapped,lymphangioleiomyomatosis,1,1,0
+train,train_0498,MONDO:0005446,cutaneous leishmaniasis,cutaneous leishmaniasis,1,1,1
+train,train_0499,MONDO:0021038,Ewing sarcoma/peripheral primitive neuroectodermal tumor,ewing family of tumors,1,1,1
+train,train_0500,MONDO:0021045,fibroepithelial neoplasm,phyllodes breast tumor,1,1,1
+train,train_0501,MONDO:0005845,meningoencephalitis,meningoencephalitis,1,1,1
+train,train_0502,MONDO:0019121,pneumocystosis,pneumocystis pneumonia,1,1,1
+train,train_0503,MONDO:0002886,common bile duct disorder,choledocholithiasis,1,1,1
+train,train_0504,MONDO:0015128,primary adrenal insufficiency,"adrenal hyperplasia, congenital",1,1,1
+train,train_0505,MONDO:0044753,lumbar spinal stenosis,lumbar spinal stenosis,1,1,1
+train,train_0506,MONDO:0010978,"portal vein, cavernous transformation of","portal vein, cavernous transformation of",1,1,1
+train,train_0507,MONDO:0013171,purine nucleoside phosphorylase deficiency,purine-nucleoside phosphorylase deficiency,1,1,1
+train,train_0508,UNMAPPED:hemangioma,unmapped,hemangioma,1,1,0
+train,train_0509,MONDO:0001268,gingival recession,gingival recession,1,1,1
+train,train_0510,MONDO:0005173,actinic keratosis,actinic keratosis,1,1,1
+train,train_0511,MONDO:0005632,acute chest syndrome,acute chest syndrome,1,1,1
+train,train_0512,MONDO:0006008,vestibular neuronitis,vestibular neuronitis,1,1,1
+train,train_0513,MONDO:0018048,heparin-induced thrombocytopenia,heparin-induced thrombocytopenia,1,1,1
+train,train_0514,UNMAPPED:keratitis,unmapped,keratitis,1,1,0
+train,train_0515,MONDO:0007708,Kasabach-Merritt syndrome,kasabach merritt phenomenon,1,1,1
+train,train_0516,MONDO:0005264,transient ischemic attack,tia,1,1,1
+train,train_0517,MONDO:0006497,cerebral palsy,cerebral palsy,1,1,1
+train,train_0518,MONDO:0003361,small intestinal sarcoma,small intestine leiomyosarcoma,1,1,1
+train,train_0519,MONDO:0005438,metastatic malignant neoplasm in the lymph nodes,metastatic malignant neoplasm in the lymph nodes,1,1,1
+train,train_0520,UNMAPPED:optic atrophy,unmapped,optic atrophy,1,1,0
+train,train_0521,MONDO:0013209,metabolic dysfunction-associated steatotic liver disease,nafld,1,1,1
+train,train_0522,MONDO:0020549,invasive hydatidiform mole,invasive mole,1,1,1
+train,train_0523,MONDO:0006137,cervical intraepithelial neoplasia grade 2/3,cervical intraepithelial neoplasia grade 2/3,1,1,1
+train,train_0524,MONDO:0005485,psychotic disorder,psychosis,1,1,1
+train,train_0525,MONDO:0000328,hyperphosphatemia,hyperphosphatemia,1,1,1
+train,train_0526,UNMAPPED:focal segmental glomerulosclerosis,unmapped,focal segmental glomerulosclerosis,1,1,0
+train,train_0527,UNMAPPED:carpal tunnel syndrome,unmapped,carpal tunnel syndrome,1,1,0
+train,train_0528,MONDO:0003409,colonic disorder,colon disease,1,1,1
+train,train_0529,"UNMAPPED:hypertension,",unmapped,"hypertension,",1,1,0
+train,train_0530,MONDO:0007606,fibrodysplasia ossificans progressiva,fibrodysplasia ossificans progressiva,1,1,1
+train,train_0531,MONDO:0016075,filariasis,loiasis,1,1,1
+train,train_0532,MONDO:0006721,de Quervain disease,de quervain disease,1,1,1
+train,train_0533,UNMAPPED:polyarteritis nodosa,unmapped,polyarteritis nodosa,1,1,0
+train,train_0534,MONDO:0023006,doxorubicin induced cardiomyopathy,doxorubicin induced cardiomyopathy,1,1,1
+train,train_0535,UNMAPPED:temporal arteritis,unmapped,temporal arteritis,1,1,0
+train,train_0536,MONDO:0031520,familial severe combined immunodeficiency,x-linked severe combined immunodeficiency,1,1,1
+train,train_0537,MONDO:0100078,resistant hypertension,resistant hypertension,1,1,1
+train,train_0538,MONDO:0001330,presbyopia,presbyopia,1,1,1
+train,train_0539,MONDO:0043797,spinal cord injury,spinal cord injury,1,1,1
+train,train_0540,MONDO:0016730,gangliocytoma,gangliocytoma,1,1,1
+train,train_0541,MONDO:0007179,autoimmune disease,autoimmune disorder,1,1,1
+train,train_0542,MONDO:0018645,IgG4-related sclerosing cholangitis,igg4-related sclerosing cholangitis,1,1,1
+train,train_0543,MONDO:0016784,unmapped,gestational trophoblastic disease,1,1,1
+train,train_0544,MONDO:0006732,drug-induced dyskinesia,drug induced dyskinesia,1,1,1
+train,train_0545,MONDO:0004739,urea cycle disorder,urea cycle disorders,1,1,1
+train,train_0546,MONDO:0003282,ovarian cyst,ovarian cyst,1,1,1
+train,train_0547,MONDO:0002380,myoepithelial tumor,myoepithelial tumor,1,1,1
+train,train_0548,MONDO:0003057,pediatric meningioma,childhood meningioma,1,1,1
+train,train_0549,MONDO:0001942,generalized anxiety disorder,generalized anxiety disorder,1,1,1
+train,train_0550,MONDO:0004450,carotid artery occlusion,carotid artery occlusion,1,1,1
+train,train_0551,MONDO:0003664,hemolytic anemia,hemolytic anemia,1,1,1
+train,train_0552,MONDO:0005030,fetal growth restriction,iugr,1,1,1
+train,train_0553,MONDO:0018608,pure autonomic failure,pure autonomic failure,1,1,1
+train,train_0554,MONDO:0023369,disorder of facial skeleton,oral submucous fibrosis,1,1,1
+train,train_0555,MONDO:0005345,hypospadias,hypospadias,1,1,1
+train,train_0556,MONDO:0021096,papillary epithelial neoplasm,recurrent respiratory papillomatosis,1,1,1
+train,train_0557,UNMAPPED:hyperinsulinemic hypoglycemia,unmapped,hyperinsulinemic hypoglycemia,1,1,0
+train,train_0558,MONDO:0005520,rickets,renal osteodystrophy,1,1,1
+train,train_0559,MONDO:0008249,pilonidal sinus,pilonidal sinus,1,1,1
+train,train_0560,MONDO:0005566,neonatal abstinence syndrome,neonatal abstinence syndrome,1,1,1
+train,train_0561,MONDO:0006975,smooth muscle tumor,smooth muscle tumor,1,1,1
+train,train_0562,MONDO:0002508,gingivitis,gingivitis,1,1,1
+train,train_0563,MONDO:0008558,autoimmune thrombocytopenic purpura,idiopathic thrombocytopenic purpura,1,1,1
+train,train_0564,MONDO:0044212,chronic idiopathic urticaria,chronic idiopathic urticaria,1,1,1
+train,train_0565,MONDO:0002031,cecal disorder,appendicitis,1,1,1
+train,train_0566,MONDO:0005277,migraine disorder,migraine headache,1,1,1
+train,train_0567,MONDO:0005098,stroke disorder,cerebrovascular accident,1,1,1
+train,train_0568,MONDO:0005775,G6PD deficiency,g6pd deficiency,1,1,1
+train,train_0569,MONDO:0008114,obsessive-compulsive disorder,obsessive compulsive disorder,1,1,1
+train,train_0570,MONDO:0001684,exocrine pancreatic insufficiency,exocrine pancreatic insufficiency,1,1,1
+train,train_0571,UNMAPPED:anal carcinoma,unmapped,anal carcinoma,1,1,0
+train,train_0572,MONDO:0005327,hip fracture,hip fracture,1,1,1
+train,train_0573,MONDO:0019127,polymyositis,polymyositis,1,1,1
+train,train_0574,MONDO:0024314,parasitemia,parasitemia,1,1,1
+train,train_0575,MONDO:0002909,hyperglycemia,hyperglycemia,1,1,1
+train,train_0576,MONDO:0033821,fungal keratitis,fungal keratitis,1,1,1
+train,train_0577,MONDO:0001156,borderline personality disorder,borderline personality disorder,1,1,1
+train,train_0578,MONDO:0019632,Lyme disease,lyme disease,1,1,1
+train,train_0579,UNMAPPED:hypopituitarism,unmapped,hypopituitarism,1,1,0
+train,train_0580,MONDO:0021148,female reproductive system neoplasm,female reproductive system neoplasm,1,1,1
+train,train_0581,MONDO:0024615,T-cell and NK-cell neoplasm,mature t-cell and nk-cell neoplasm,1,1,1
+train,train_0582,MONDO:0003834,gastric cardia carcinoma,gastric cardia carcinoma,1,1,1
+train,train_0583,MONDO:0005247,bacterial urinary tract infection,urinary tract infection,1,1,1
+train,train_0584,MONDO:0003454,conjunctival cancer,malignant conjunctival neoplasm,1,1,1
+train,train_0585,MONDO:0020725,anemia due to chronic disorder,anemia of chronic disease,1,1,1
+train,train_0586,MONDO:0019933,acromegaly,acromegaly,1,1,1
+train,train_0587,MONDO:0000942,corneal disorder,corneal disease,1,1,1
+train,train_0588,MONDO:0011292,unmapped,"dermatitis, atopic",1,1,1
+train,train_0589,MONDO:0006805,intermediate coronary syndrome,unstable angina,1,1,1
+train,train_0590,MONDO:0005325,radius fracture,radius fracture,1,1,1
+train,train_0591,MONDO:0003689,familial hemolytic anemia,congenital hemolytic anemia,1,1,1
+train,train_0592,UNMAPPED:polyneuropathy,unmapped,polyneuropathy,1,1,0
+train,train_0593,MONDO:0010520,X-linked Alport syndrome,"alport syndrome, x-linked",1,1,1
+train,train_0594,MONDO:0020920,escherichia coli infection,escherichia coli infection,1,1,1
+train,train_0595,MONDO:0005451,eating disorder,eating disorder,1,1,1
+train,train_0596,MONDO:0005359,drug-induced liver injury,drug induced liver injury,1,1,1
+train,train_0597,MONDO:0005593,chronic periodontitis,chronic periodontitis,1,1,1
+train,train_0598,MONDO:0006642,alcohol withdrawal delirium,alcohol withdrawal delirium,1,1,1
+train,train_0599,MONDO:0005265,inflammatory bowel disease,ibd,1,1,1
+train,train_0600,MONDO:0010481,angioedema,angioedema,1,1,1
+train,train_0601,MONDO:0009047,cryptorchidism,cryptorchidism,1,1,1
+train,train_0602,UNMAPPED:autoimmune pancreatitis,unmapped,autoimmune pancreatitis,1,1,0
+train,train_0603,MONDO:0036976,benign epithelial neoplasm,ameloblastoma,1,1,1
+train,train_0604,MONDO:0005789,hepatitis D virus infection,hepatitis d,1,1,1
+train,train_0605,MONDO:0005203,ischemia reperfusion injury,ischemia-reperfusion injury,1,1,1
+train,train_0606,UNMAPPED:disseminated intravascular coagulation,unmapped,disseminated intravascular coagulation,1,1,0
+train,train_0607,MONDO:0021124,female infertility,female infertility,1,1,1
+train,train_0608,MONDO:0001855,rubeosis iridis,rubeosis iridis,1,1,1
+train,train_0609,MONDO:0015610,acquired aplastic anemia,acquired aplastic anemia,1,1,1
+train,train_0610,MONDO:0005263,unmapped,unipolar depression,1,1,1
+train,train_0611,MONDO:0006502,acute respiratory distress syndrome,acute respiratory distress syndrome,1,1,1
+train,train_0612,MONDO:0016787,epithelioid trophoblastic tumor,epithelioid trophoblastic tumor,1,1,1
+train,train_0613,MONDO:0005404,myalgic encephalomeyelitis/chronic fatigue syndrome,chronic fatigue syndrome,1,1,1
+train,train_0614,MONDO:0044347,erythrocyte disorder,red blood cell disorder,1,1,1
+train,train_0615,MONDO:0003767,mitral valve disorder,mitral valve disease,1,1,1
+train,train_0616,MONDO:0005376,membranous glomerulonephritis,membranous nephropathy,1,1,1
+train,train_0617,MONDO:0043373,sudden sensorineural hearing loss,sudden sensorineural hearing loss,1,1,1
+train,train_0618,MONDO:0008375,retinal detachment,retinal detachment,1,1,1
+train,train_0619,MONDO:0005280,prostatitis,prostatitis,1,1,1
+train,train_0620,MONDO:0002836,urethra transitional cell carcinoma,urethral urothelial carcinoma,1,1,1
+train,train_0621,MONDO:0006964,secondary hyperparathyroidism,secondary hyperparathyroidism,1,1,1
+train,train_0622,MONDO:0043465,achlorhydria,achlorhydria,1,1,1
+train,train_0623,UNMAPPED:hypertrophic cardiomyopathy,unmapped,hypertrophic cardiomyopathy,1,1,0
+train,train_0624,MONDO:0043875,tumor lysis syndrome,tumor lysis syndrome,1,1,1
+train,train_0625,MONDO:0019018,Tako-tsubo cardiomyopathy,takotsubo syndrome,1,1,1
+train,train_0626,MONDO:0004691,autosomal dominant polycystic kidney disease,autosomal dominant polycystic kidney disease,1,1,1
+train,train_0627,MONDO:0002046,alcohol abuse,alcohol abuse,1,1,1
+train,train_0628,MONDO:0005560,brain disorder,brain disease,1,1,1
+train,train_0629,UNMAPPED:hemophilia,unmapped,hemophilia,1,1,0
+train,train_0630,UNMAPPED:narcolepsy,unmapped,narcolepsy,1,1,0
+train,train_0631,MONDO:0005724,cryptococcosis,cryptococcosis,1,1,1
+train,train_0632,UNMAPPED:hemochromatosis,unmapped,hemochromatosis,1,1,0
+train,train_0633,MONDO:0005003,chronic pancreatitis,chronic pancreatitis,1,1,1
+train,train_0634,MONDO:0005867,Mycoplasma pneumoniae pneumonia,mycoplasma pneumoniae pneumonia,1,1,1
+train,train_0635,MONDO:0100053,anaphylaxis,anaphylaxis,1,1,1
+train,train_0636,MONDO:0005929,postpartum depression,postpartum depression,1,1,1
+train,train_0637,MONDO:0006744,endolymphatic hydrops,meniere disease,1,1,1
+train,train_0638,MONDO:0000940,trypanosomiasis,sleeping sickness,1,1,1
+train,train_0639,UNMAPPED:androgenetic alopecia,unmapped,androgenetic alopecia,1,1,0
+train,train_0640,MONDO:0018944,gestational trophoblastic neoplasm,gestational trophoblastic tumor,1,1,1
+train,train_0641,MONDO:0003659,pediatric lymphoma,childhood lymphoma,1,1,1
+train,train_0642,MONDO:0020580,germinomatous germ cell tumor,germinomatous germ cell tumor,1,1,1
+train,train_0643,MONDO:0005441,otitis media,otitis media,1,1,1
+train,train_0644,MONDO:0004277,gonorrhea,gonorrhea,1,1,1
+train,train_0645,MONDO:0002616,mesenchymal cell neoplasm,mesenchymal tumor,1,1,1
+train,train_0646,MONDO:0005391,restless legs syndrome,restless legs syndrome,1,1,1
+train,train_0647,UNMAPPED:skin carcinoma,unmapped,skin carcinoma,1,1,0
+train,train_0648,MONDO:0006031,chronic rhinosinusitis,chronic rhinosinusitis,1,1,1
+train,train_0649,MONDO:0006021,Prinzmetal angina,prinzmetal angina,1,1,1
+train,train_0650,MONDO:0043537,cluster headache syndrome,cluster headache,1,1,1
+train,train_0651,MONDO:0021259,prostate neoplasm,prostate neoplasm,1,1,1
+train,train_0652,UNMAPPED:multiple endocrine neoplasia,unmapped,multiple endocrine neoplasia,1,1,0
+train,train_0653,MONDO:0019297,lymphedema,lymphedema,1,1,1
+train,train_0654,MONDO:0005453,congenital heart disease,congenital heart disease,1,1,1
+train,train_0655,UNMAPPED:adrenal insufficiency,unmapped,adrenal insufficiency,1,1,0
+train,train_0656,MONDO:0006684,brain edema,brain edema,1,1,1
+train,train_0657,MONDO:0019338,sarcoidosis,sarcoidosis,1,1,1
+train,train_0658,MONDO:0006668,bacterial conjunctivitis,bacterial conjunctivitis,1,1,1
+train,train_0659,MONDO:0005383,panic disorder,panic disorder,1,1,1

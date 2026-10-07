@@ -1,0 +1,14 @@
+{
+  "triples": "data/dataset_v2_ontology/drug_disease_drug_kg_mapped.csv",
+  "cdcdb_source": "CDCDB all_combs_unormalized.csv (upstream source; not bundled)",
+  "num_drugs": 1658,
+  "num_with_cid": 1269,
+  "num_with_smiles": 1269,
+  "malformed_cdcdb_rows": 14209,
+  "cid_resolution": "highest CDCDB occurrence count; lowest CID tie-break",
+  "pubchem_endpoint": "PUG REST",
+  "model": "DeepChem/ChemBERTa-100M-MLM",
+  "model_revision": "f5c45f44d3061f0346888f5c09db17ec1146d29d",
+  "morgan_valid": 1269,
+  "pretrained_valid": 1269
+}

@@ -1,0 +1,43 @@
+{
+  "created_on": "2026-07-30",
+  "dataset": "dataset_v2_ontology",
+  "prediction_unit": "positive drug_1--disease--drug_2 triple",
+  "drug_pair_semantics": "unordered; drug IDs are canonically ordered in storage",
+  "mapping_is_auxiliary": true,
+  "unmapped_diseases_retained_in_main_dataset": true,
+  "split_counts": {
+    "train": 49679,
+    "valid": 7966,
+    "test": 9094
+  },
+  "all_triples": 66739,
+  "kg_mapped_triples": 26126,
+  "kg_mapped_fraction": 0.39146526019269096,
+  "all_three_entities_in_kg": 24798,
+  "mapping_methods": {
+    "unmapped": 40613,
+    "ontology_exact_synonym_direct": 6238,
+    "exact_name": 14389,
+    "ontology_label_grouped": 1093,
+    "canonical_name": 1510,
+    "ontology_exact_synonym_grouped": 1920,
+    "ontology_label_direct": 976
+  },
+  "mapping_confidences": {
+    "none": 40613,
+    "high": 21603,
+    "medium": 4523
+  },
+  "unique_unmapped_disease_strings": 5722,
+  "metadata": {
+    "source_triples": "data/processed_cdcdb",
+    "primekg_path": "data/kg.csv",
+    "primekg_sha256": "0a5a010fcd88dcec572a573d98c26c1c244a11567092b6161d3ded611cfb5c69",
+    "mapping_policy": "exact PrimeKG label; MONDO preferred label or EXACT synonym resolved by MONDO ID; unique conservative canonical fallback",
+    "mondo_path": "data/ontologies/mondo-2026-07-06.obo",
+    "mondo_version": "releases/2026-07-06",
+    "mondo_sha256": "75c51066741e04c0ec4751210911d29e17e16431ed2ba5b8a46fc6a37ff5b00e",
+    "accepted_synonym_scope": "EXACT only",
+    "ambiguous_ontology_names": "left unmapped unless conservative PrimeKG canonical matching is unique"
+  }
+}

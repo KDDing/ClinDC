@@ -1,0 +1,24 @@
+{
+  "definition": "all drugs with valid Morgan fingerprint and no effective non-padding PrimeKG one-hop token are fixed cold drugs",
+  "seed": 42,
+  "validation_fraction_of_warm_only_triples": 0.1,
+  "num_cold_drugs": 156,
+  "num_train_drugs": 1492,
+  "counts": {
+    "source": 26126,
+    "train": 22831,
+    "valid": 2537,
+    "test1_exactly_one_cold": 719,
+    "test2_both_cold": 13,
+    "excluded_test_only_disease": 26
+  },
+  "integrity": {
+    "cold_absent_from_train_positives": true,
+    "validation_contains_only_train_drugs": true,
+    "test_diseases_seen_in_train": true,
+    "test1_exactly_one_cold": true,
+    "test2_both_cold": true
+  },
+  "training_negative_pool": "training-positive drugs only; enforced by train CLI flag",
+  "test1_orientation": "warm drug is drug_1 anchor; cold drug is drug_2 target"
+}

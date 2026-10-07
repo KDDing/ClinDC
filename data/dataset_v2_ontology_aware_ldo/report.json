@@ -1,0 +1,32 @@
+{
+  "protocol": "ontology_aware_leave_disease_out",
+  "grouping_rule": "Diseases sharing the same canonical MONDO ancestor at the configured root depth are indivisible.",
+  "branch_depth": 7,
+  "unmapped_rule": "Diseases without a MONDO mapping are singleton groups.",
+  "seed": 42,
+  "source_sha256": "10c1d7ce7c9b67ac0657ee507fe9f7a835abb0f2f8ee04fbe00e05161decf3f0",
+  "ontology_sha256": "75c51066741e04c0ec4751210911d29e17e16431ed2ba5b8a46fc6a37ff5b00e",
+  "counts": {
+    "train": {
+      "positive_triples": 19594,
+      "diseases": 1184,
+      "ontology_groups": 659
+    },
+    "valid": {
+      "positive_triples": 2613,
+      "diseases": 209,
+      "ontology_groups": 83
+    },
+    "test": {
+      "positive_triples": 3919,
+      "diseases": 230,
+      "ontology_groups": 126
+    }
+  },
+  "mapped_diseases": 1475,
+  "unmapped_diseases": 148,
+  "canonical_branches": 868,
+  "cross_split_canonical_branches": 0,
+  "largest_group_diseases": 106,
+  "largest_group_triples": 2007
+}

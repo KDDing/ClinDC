@@ -1,0 +1,16 @@
+{
+  "seed": 42,
+  "embedding_dim": 128,
+  "hidden_dim": 256,
+  "kg_hash_buckets": 131071,
+  "text_hash_buckets": 65537,
+  "max_kg_tokens_per_entity": 256,
+  "negative_ratio": 5,
+  "eval_negatives": 100,
+  "batch_size": 256,
+  "epochs": 3,
+  "learning_rate": 0.001,
+  "weight_decay": 0.00001,
+  "patience": 5,
+  "evidence_weight_alpha": 0.15
+}
